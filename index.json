@@ -1,27 +1,37 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "updated_at": "2026-09-07",
   "description": "AI×ESG工作台 知识包",
   "files": [
     {
       "name": "knowledge_academy.json",
-      "description": "知识学堂学习路径配置"
+      "description": "知识学堂学习路径配置",
+      "hash": "9d15e20ce9c9f362b7887da6c064d81f",
+      "size": 151165
     },
     {
       "name": "ashare_guideline.json",
-      "description": "A股可持续发展报告指引（完整议题数据）"
+      "description": "A股可持续发展报告指引（完整议题数据）",
+      "hash": "b77c5d671efecb980f279b8490cb2fc3",
+      "size": 75221
     },
     {
       "name": "gri_standards.json",
-      "description": "GRI可持续发展报告标准"
+      "description": "GRI可持续发展报告标准",
+      "hash": "dd53c7e87c75c320c367668df3d5d989",
+      "size": 114737
     },
     {
       "name": "issb_standards.json",
-      "description": "ISSB可持续披露准则"
+      "description": "ISSB可持续披露准则",
+      "hash": "f415dbc334137f19c999c65e24a9040e",
+      "size": 47440
     },
     {
       "name": "esrs_standards.json",
-      "description": "欧盟ESRS可持续发展报告准则"
+      "description": "欧盟ESRS可持续发展报告准则",
+      "hash": "ef2612c52ce3b86e9d2fdd9a2c9a67dd",
+      "size": 218877
     }
   ]
 }
