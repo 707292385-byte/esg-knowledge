@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-09-07",
+  "description": "AI×ESG工作台 知识包",
+  "files": [
+    {
+      "name": "knowledge_academy.json",
+      "description": "知识学堂学习路径配置"
+    },
+    {
+      "name": "ashare_guideline.json",
+      "description": "A股可持续发展报告指引（完整议题数据）"
+    },
+    {
+      "name": "gri_standards.json",
+      "description": "GRI可持续发展报告标准"
+    },
+    {
+      "name": "issb_standards.json",
+      "description": "ISSB可持续披露准则"
+    },
+    {
+      "name": "esrs_standards.json",
+      "description": "欧盟ESRS可持续发展报告准则"
+    }
+  ]
+}
