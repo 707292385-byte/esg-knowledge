@@ -873,11 +873,13 @@
      "blocks": [
       {
        "type": "text",
-       "content": "This document provides essential information on the components of the Product Carbon Footprint Key Issue to enable users of ESG Ratings to understand how MSCI Sustainability & Climate’s (MSCI’s),1 outputs are determined. Product Carbon Footprint is a Key Issue in the Environmental Pillar of the MSCI ESG Ratings model. Companies are evaluated on the carbon intensity of their products and their ability to reduce the carbon footprint in their supply chains or in the use of their products and services."
+       "content": "This document provides essential information on the components of the Product Carbon Footprint Key Issue to enable users of ESG Ratings to understand how MSCI Sustainability & Climate’s (MSCI’s),1 outputs are determined. Product Carbon Footprint is a Key Issue in the Environmental Pillar of the MSCI ESG Ratings model. Companies are evaluated on the carbon intensity of their products and their ability to reduce the carbon footprint in their supply chains or in the use of their products and services.",
+       "content_cn": "本文档提供产品碳足迹关键议题组成部分的基本信息，帮助ESG评级用户理解MSCI可持续与气候（MSCI）研究输出的确定方式。产品碳足迹是MSCI ESG评级模型中环境支柱下的一个关键议题。公司评估内容包括其产品的碳强度，以及其在供应链中或产品和服务使用过程中减少碳足迹的能力。"
       },
       {
        "type": "text",
-       "content": "For additional details on the MSCI ESG Ratings Model, refer to the Data, ratings and scores section of “ESG Ratings Methodology.”"
+       "content": "For additional details on the MSCI ESG Ratings Model, refer to the Data, ratings and scores section of “ESG Ratings Methodology.”",
+       "content_cn": "关于MSCI ESG评级模型的更多细节，请参阅《ESG评级方法论》中\"数据、评级和分数\"部分。"
       },
       {
        "type": "text",
@@ -891,11 +893,13 @@
      "blocks": [
       {
        "type": "list",
-       "content": "• Increased costs from higher and more volatile energy prices upstream in the value chain (affecting raw materials, input, and distribution costs)."
+       "content": "• Increased costs from higher and more volatile energy prices upstream in the value chain (affecting raw materials, input, and distribution costs).",
+       "content_cn": "• 价值链上游能源价格上涨且波动加大带来的成本上升（影响原材料、投入品和分销成本）。"
       },
       {
        "type": "list",
-       "content": "• Regulatory risks associated with downstream emissions, e.g., penalties resulting from vehicle fleet emissions standards in the automobile industry."
+       "content": "• Regulatory risks associated with downstream emissions, e.g., penalties resulting from vehicle fleet emissions standards in the automobile industry.",
+       "content_cn": "• 与下游排放相关的监管风险，例如汽车行业因车队排放标准不达标而产生的处罚。"
       }
      ]
     },
@@ -905,7 +909,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The Product Carbon Footprint Key Issue score evaluates the company’s level of exposure to, and management of, risks on this Key Issue. The Key Issue score on this Key Issue is based on the Exposure score and the Management score using the formula below. The Exposure score and the Management score are combined such that a higher level of exposure requires a higher level of demonstrated management capability in order to achieve the same overall Key Issue score."
+       "content": "The Product Carbon Footprint Key Issue score evaluates the company’s level of exposure to, and management of, risks on this Key Issue. The Key Issue score on this Key Issue is based on the Exposure score and the Management score using the formula below. The Exposure score and the Management score are combined such that a higher level of exposure requires a higher level of demonstrated management capability in order to achieve the same overall Key Issue score.",
+       "content_cn": "产品碳足迹关键议题得分评估公司对该关键议题风险的敞口程度以及风险管理质量。该关键议题得分基于敞口得分和管理得分通过下述公式综合得出。敞口得分与管理得分的结合方式为：敞口水平越高，需要展示的管理能力也越高，才能获得相同的总体关键议题得分。"
       },
       {
        "type": "formula",
@@ -913,19 +918,23 @@
       },
       {
        "type": "text",
-       "content": "Where:"
+       "content": "Where:",
+       "content_cn": "其中："
       },
       {
        "type": "text",
-       "content": "$K I _ { i }$ is the Key Issue score for company ??."
+       "content": "$K I _ { i }$ is the Key Issue score for company ??.",
+       "content_cn": "$KI_i$ 是公司i的关键议题得分。"
       },
       {
        "type": "text",
-       "content": "$E X P _ { i }$ is the Exposure score for company ??."
+       "content": "$E X P _ { i }$ is the Exposure score for company ??.",
+       "content_cn": "$EXP_i$ 是公司i的敞口得分。"
       },
       {
        "type": "text",
-       "content": "$M G M T _ { i }$ is the Management score for company ??."
+       "content": "$M G M T _ { i }$ is the Management score for company ??.",
+       "content_cn": "$MGMT_i$ 是公司i的管理得分。"
       }
      ]
     },
@@ -935,7 +944,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The table below outlines the indicators mapped to their respective components that inform the Product Carbon Footprint Management score, excluding controversies. MSCI S&C assigns each indicator a default weight. Indicator weights may be adjusted at the company level to reflect the relevance of the indicator to the company’s business activities. If a company has no exposure to the business activities covered by an indicator, the indicator is assigned a weight of zero."
+       "content": "The table below outlines the indicators mapped to their respective components that inform the Product Carbon Footprint Management score, excluding controversies. MSCI S&C assigns each indicator a default weight. Indicator weights may be adjusted at the company level to reflect the relevance of the indicator to the company’s business activities. If a company has no exposure to the business activities covered by an indicator, the indicator is assigned a weight of zero.",
+       "content_cn": "下表列示了构成产品碳足迹管理得分（不含争议事件）的各指标及其对应组成部分。MSCI S&C为每个指标设定默认权重。指标权重可在公司层面调整，以反映该指标与公司业务活动的相关性。如果公司对某指标涵盖的业务活动没有敞口，则该指标权重设为零。"
       },
       {
        "type": "table",
@@ -949,15 +959,18 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The Product Carbon Footprint Management score evaluates the company’s ability to manage its exposure to risks on this Key Issue. It is based on weighted average of the score associated with each relevant indicators, modified by controversies."
+       "content": "The Product Carbon Footprint Management score evaluates the company’s ability to manage its exposure to risks on this Key Issue. It is based on weighted average of the score associated with each relevant indicators, modified by controversies.",
+       "content_cn": "产品碳足迹管理得分评估公司管理该关键议题风险敞口的能力。它基于各相关指标得分的加权平均值计算，并经争议事件调整。"
       },
       {
        "type": "text",
-       "content": "This score is derived from indicators that are scored on a 0-10 scale, with 10 corresponding to best practice. Refer to the Analyzing risk management section of “ESG Ratings Methodology” for additional details. Sources are company disclosures except where otherwise indicated."
+       "content": "This score is derived from indicators that are scored on a 0-10 scale, with 10 corresponding to best practice. Refer to the Analyzing risk management section of “ESG Ratings Methodology” for additional details. Sources are company disclosures except where otherwise indicated.",
+       "content_cn": "该得分来源于按0-10分制评分的指标，10分对应最佳实践。更多细节请参阅《ESG评级方法论》中\"风险管理分析\"部分。除特别注明外，数据来源为公司披露。"
       },
       {
        "type": "text",
-       "content": "The following formula is used to calculate the Product Carbon Footprint Management score - Excluding Controversies:"
+       "content": "The following formula is used to calculate the Product Carbon Footprint Management score - Excluding Controversies:",
+       "content_cn": "产品碳足迹管理得分（不含争议事件）按以下公式计算："
       },
       {
        "type": "formula",
@@ -965,23 +978,28 @@
       },
       {
        "type": "text",
-       "content": "Where:"
+       "content": "Where:",
+       "content_cn": "其中："
       },
       {
        "type": "text",
-       "content": "$M G M T _ { i }$ is the Management score - Excluding Controversies for company ??."
+       "content": "$M G M T _ { i }$ is the Management score - Excluding Controversies for company ??.",
+       "content_cn": "$MGMT_i$ 是公司i的管理得分（不含争议事件）。"
       },
       {
        "type": "list",
-       "content": "• ???? ?????????? $\\_ S c o r e _ { j , i }$ is the score of indicator for company ."
+       "content": "• ???? ?????????? $\\_ S c o r e _ { j , i }$ is the score of indicator for company .",
+       "content_cn": "• $Score_{j,i}$ 是公司i在指标j上的得分。"
       },
       {
        "type": "text",
-       "content": "● ???? ?????????? $. W e i g h t _ { j , i }$ is the weight of indicator for company ."
+       "content": "● ???? ?????????? $. W e i g h t _ { j , i }$ is the weight of indicator for company .",
+       "content_cn": "• $Weight_{j,i}$ 是公司i在指标j上的权重。"
       },
       {
        "type": "text",
-       "content": "The following formula is used to calculate the scores for the components"
+       "content": "The following formula is used to calculate the scores for the components",
+       "content_cn": "各组成部分得分按以下公式计算："
       },
       {
        "type": "formula",
@@ -989,27 +1007,33 @@
       },
       {
        "type": "text",
-       "content": "Where:"
+       "content": "Where:",
+       "content_cn": "其中："
       },
       {
        "type": "text",
-       "content": "$C O M P _ { c , i }$ is the component score for component $c _ { \\prime }$ for company i."
+       "content": "$C O M P _ { c , i }$ is the component score for component $c _ { \\prime }$ for company i.",
+       "content_cn": "$COMP_{c,i}$ 是公司i在组成部分c上的得分。"
       },
       {
        "type": "list",
-       "content": "• ???? ?????????? $\\_ S c o r e _ { j , i }$ is the score of indicator for company ."
+       "content": "• ???? ?????????? $\\_ S c o r e _ { j , i }$ is the score of indicator for company .",
+       "content_cn": "• $Score_{j,i}$ 是公司i在指标j上的得分。"
       },
       {
        "type": "list",
-       "content": "• ???? ?????????? $. W e i g h t \\_ S c a l e d _ { j , i }$ is the scaled weight of indicator for company ."
+       "content": "• ???? ?????????? $. W e i g h t \\_ S c a l e d _ { j , i }$ is the scaled weight of indicator for company .",
+       "content_cn": "• $Weight\\_Scaled_{j,i}$ 是公司i在指标j上的缩放后权重。"
       },
       {
        "type": "text",
-       "content": "$j \\in c$ indicates that the summation is over all indicators belonging to component"
+       "content": "$j \\in c$ indicates that the summation is over all indicators belonging to component",
+       "content_cn": "$j \\in c$ 表示对所有属于组成部分c的指标求和。"
       },
       {
        "type": "text",
-       "content": "The following formula is used to calculate the weights for the components"
+       "content": "The following formula is used to calculate the weights for the components",
+       "content_cn": "各组成部分权重按以下公式计算："
       },
       {
        "type": "formula",
@@ -1017,23 +1041,28 @@
       },
       {
        "type": "text",
-       "content": "Where:"
+       "content": "Where:",
+       "content_cn": "其中："
       },
       {
        "type": "text",
-       "content": "$C O M P \\_ W e i g h t _ { c , i }$ is the component weight for component for company i."
+       "content": "$C O M P \\_ W e i g h t _ { c , i }$ is the component weight for component for company i.",
+       "content_cn": "$COMP\\_Weight_{c,i}$ 是公司i在组成部分c上的权重。"
       },
       {
        "type": "list",
-       "content": "• ???? ??????????\\_ $W e i g h t _ { j , i }$ is the weight of indicator j for company i."
+       "content": "• ???? ??????????\\_ $W e i g h t _ { j , i }$ is the weight of indicator j for company i.",
+       "content_cn": "• $Weight_{j,i}$ 是公司i在指标j上的权重。"
       },
       {
        "type": "text",
-       "content": "$j \\in c$ indicates that the summation is over all indicators belonging to component ."
+       "content": "$j \\in c$ indicates that the summation is over all indicators belonging to component .",
+       "content_cn": "$j \\in c$ 表示对所有属于组成部分c的指标求和。"
       },
       {
        "type": "text",
-       "content": "The definitions of the data points in each component are given below:"
+       "content": "The definitions of the data points in each component are given below:",
+       "content_cn": "各组成部分中数据点的定义如下："
       }
      ]
     },
@@ -1043,7 +1072,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The Product Carbon Footprint Practices score evaluates the company’s ability to manage its exposure to risks related to the carbon intensity of its products and its ability to reduce the carbon footprint in its supply chains or in the use of its products and services. This score is equal to the Product Carbon"
+       "content": "The Product Carbon Footprint Practices score evaluates the company’s ability to manage its exposure to risks related to the carbon intensity of its products and its ability to reduce the carbon footprint in its supply chains or in the use of its products and services. This score is equal to the Product Carbon",
+       "content_cn": "产品碳足迹实践得分评估公司管理与产品碳强度相关风险敞口的能力，以及其在供应链中或产品和服务使用过程中减少碳足迹的能力。该得分等于产品碳足迹管理得分，并考虑公司政策和举措的属性。以0-10分表示，10分表示强有力的举措。"
       },
       {
        "type": "text",
@@ -1057,7 +1087,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "Definition: Indicates whether the company assesses the carbon emissions and/or energy consumption of its suppliers."
+       "content": "Definition: Indicates whether the company assesses the carbon emissions and/or energy consumption of its suppliers.",
+       "content_cn": "定义：反映公司是否评估其供应商的碳排放和/或能源消耗。"
       }
      ]
     },
@@ -1067,7 +1098,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "Definition: Indicates whether the company assesses the downstream carbon emissions of its products and services."
+       "content": "Definition: Indicates whether the company assesses the downstream carbon emissions of its products and services.",
+       "content_cn": "定义：反映公司是否评估其产品和服务的下游碳排放。"
       }
      ]
     },
@@ -1077,7 +1109,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "Definition: Indicates whether there is evidence the company has quantitative and time-bound targets to reduce Scope 3 upstream carbon emissions. This may include targets regarding the company’s supply chain."
+       "content": "Definition: Indicates whether there is evidence the company has quantitative and time-bound targets to reduce Scope 3 upstream carbon emissions. This may include targets regarding the company’s supply chain.",
+       "content_cn": "定义：反映是否有证据表明公司设定了减少范围3上游碳排放的量化、有时限的目标。这可能包括与公司供应链相关的目标。"
       }
      ]
     },
@@ -1087,7 +1120,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "Definition: Indicates whether the company assesses the carbon emissions or energy consumption of its distribution centers and store operations."
+       "content": "Definition: Indicates whether the company assesses the carbon emissions or energy consumption of its distribution centers and store operations.",
+       "content_cn": "定义：反映公司是否评估其分销中心和门店运营的碳排放或能源消耗。"
       }
      ]
     },
@@ -1097,7 +1131,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "Definition: Indicates whether the company assesses the carbon emissions or energy consumption of its manufacturing operations, including suppliers’ operations."
+       "content": "Definition: Indicates whether the company assesses the carbon emissions or energy consumption of its manufacturing operations, including suppliers’ operations.",
+       "content_cn": "定义：反映公司是否评估其制造运营（包括供应商运营）的碳排放或能源消耗。"
       }
      ]
     },
@@ -1107,7 +1142,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "Definition: Indicates whether the company assesses the upstream carbon emissions or energy consumption involved in the production of raw materials."
+       "content": "Definition: Indicates whether the company assesses the upstream carbon emissions or energy consumption involved in the production of raw materials.",
+       "content_cn": "定义：反映公司是否评估原材料生产过程中涉及的上游碳排放或能源消耗。"
       }
      ]
     },
@@ -1117,7 +1153,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "Definition: Indicates whether the company assesses the carbon emissions or energy consumption of its transportation and logistics operations."
+       "content": "Definition: Indicates whether the company assesses the carbon emissions or energy consumption of its transportation and logistics operations.",
+       "content_cn": "定义：反映公司是否评估其运输和物流运营的碳排放或能源消耗。"
       }
      ]
     },
@@ -1127,7 +1164,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "Definition: The extent of the company’s carbon emissions or energy reduction programs in its distribution centers or store operations. Best practice includes programs in all distribution centers or store operations."
+       "content": "Definition: The extent of the company’s carbon emissions or energy reduction programs in its distribution centers or store operations. Best practice includes programs in all distribution centers or store operations.",
+       "content_cn": "定义：公司在其分销中心或门店运营中实施碳减排或节能项目的程度。最佳实践包括在所有分销中心或门店运营中实施项目。"
       }
      ]
     },
@@ -1137,7 +1175,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "Definition: The extent of the company’s carbon emissions or energy reduction programs in its manufacturing operations, including suppliers’ operations. Best practice includes programs covering all core production facilities."
+       "content": "Definition: The extent of the company’s carbon emissions or energy reduction programs in its manufacturing operations, including suppliers’ operations. Best practice includes programs covering all core production facilities.",
+       "content_cn": "定义：公司在其制造运营（包括供应商运营）中实施碳减排或节能项目的程度。最佳实践包括项目覆盖所有核心生产设施。"
       }
      ]
     },
@@ -1147,7 +1186,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "Definition: The extent of the company’s carbon emissions or energy reduction programs in the sourcing of raw materials, including those sourced by suppliers. Best practice includes programs covering all core products."
+       "content": "Definition: The extent of the company’s carbon emissions or energy reduction programs in the sourcing of raw materials, including those sourced by suppliers. Best practice includes programs covering all core products.",
+       "content_cn": "定义：公司在原材料采购（包括供应商采购的原材料）中实施碳减排或节能项目的程度。最佳实践包括项目覆盖所有核心产品。"
       }
      ]
     },
@@ -1157,11 +1197,13 @@
      "blocks": [
       {
        "type": "text",
-       "content": "Definition: The extent of the company’s carbon emissions or energy reduction programs in the transportation and logistics stages. Best practice includes improvements in fleet efficiency combined with improvements in load/packaging optimization."
+       "content": "Definition: The extent of the company’s carbon emissions or energy reduction programs in the transportation and logistics stages. Best practice includes improvements in fleet efficiency combined with improvements in load/packaging optimization.",
+       "content_cn": "定义：公司在运输和物流阶段实施碳减排或节能项目的程度。最佳实践包括车队效率提升与装载/包装优化相结合。"
       },
       {
        "type": "text",
-       "content": "Sources: Company disclosures, CDP, International Council on Clean Transportation, Environmental Protection Agency, European Environment Agency, Korea Energy Industry."
+       "content": "Sources: Company disclosures, CDP, International Council on Clean Transportation, Environmental Protection Agency, European Environment Agency, Korea Energy Industry.",
+       "content_cn": "数据来源：公司披露、CDP（碳披露项目）、国际清洁交通理事会、美国环保署、欧洲环境署、韩国能源产业。"
       }
      ]
     },
@@ -1171,11 +1213,13 @@
      "blocks": [
       {
        "type": "text",
-       "content": "For companies belonging to the automobile and motorcycle manufacturing industry, the Product Carbon Footprint Management score is calculated using the Product Carbon Footprint Performance score and the Product Carbon Footprint Performance Targets score."
+       "content": "For companies belonging to the automobile and motorcycle manufacturing industry, the Product Carbon Footprint Management score is calculated using the Product Carbon Footprint Performance score and the Product Carbon Footprint Performance Targets score.",
+       "content_cn": "对于属于汽车和摩托车制造业的公司，产品碳足迹管理得分使用产品碳足迹绩效得分和产品碳足迹绩效目标得分计算。"
       },
       {
        "type": "text",
-       "content": "The definitions of the data points in each component are given below:"
+       "content": "The definitions of the data points in each component are given below:",
+       "content_cn": "各组成部分中数据点的定义如下："
       }
      ]
     },
@@ -1185,7 +1229,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The Product Carbon Footprint Performance score evaluates the company's performance on Product Carbon Footprint metrics, including the company’s estimated tailpipe emissions. It is expressed as a 0-10 score, where 10 indicates the highest level of performance."
+       "content": "The Product Carbon Footprint Performance score evaluates the company's performance on Product Carbon Footprint metrics, including the company’s estimated tailpipe emissions. It is expressed as a 0-10 score, where 10 indicates the highest level of performance.",
+       "content_cn": "产品碳足迹绩效得分评估公司在产品碳足迹指标上的表现，包括公司估计的尾气排放。以0-10分表示，10分表示最高绩效水平。"
       }
      ]
     },
@@ -1195,7 +1240,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "Definition: Assesses the company's estimated global volume-weighted tailpipe fleet emission performance in comparison to industry peers. Expressed as a 0-10 score, with 10 indicating lowest fleet emissions, relative to peers."
+       "content": "Definition: Assesses the company's estimated global volume-weighted tailpipe fleet emission performance in comparison to industry peers. Expressed as a 0-10 score, with 10 indicating lowest fleet emissions, relative to peers.",
+       "content_cn": "定义：评估公司估计的全球按销量加权的尾气车队排放表现与行业同行相比的情况。以0-10分表示，10分表示相对同行车队排放最低。"
       }
      ]
     },
@@ -1205,19 +1251,23 @@
      "blocks": [
       {
        "type": "text",
-       "content": "Definition: Assesses the company's performance on estimated global volume-weighted tailpipe fleet emission, relative to its peers. Expressed as a 0-10 score, where 10 indicates lowest fleet emissions relative to peers."
+       "content": "Definition: Assesses the company's performance on estimated global volume-weighted tailpipe fleet emission, relative to its peers. Expressed as a 0-10 score, where 10 indicates lowest fleet emissions relative to peers.",
+       "content_cn": "定义：评估公司估计的全球按销量加权的尾气车队排放相对同行的表现。以0-10分表示，10分表示相对同行车队排放最低。"
       },
       {
        "type": "list",
-       "content": "◦ Product Carbon Footprint industry relative trend score"
+       "content": "◦ Product Carbon Footprint industry relative trend score",
+       "content_cn": "◦ 产品碳足迹行业相对趋势得分"
       },
       {
        "type": "text",
-       "content": "Definition: Assesses the company’s performance on the three-year average of year-overyear estimated global volume-weighted tailpipe fleet emission trend, relative to its peers. Expressed as a 0–10 score, where 10 indicates highest decline in fleet emissions, relative to peers."
+       "content": "Definition: Assesses the company’s performance on the three-year average of year-overyear estimated global volume-weighted tailpipe fleet emission trend, relative to its peers. Expressed as a 0–10 score, where 10 indicates highest decline in fleet emissions, relative to peers.",
+       "content_cn": "定义：评估公司估计的全球按销量加权的尾气车队排放三年平均同比变化趋势相对同行的表现。以0-10分表示，10分表示相对同行车队排放下降幅度最大。"
       },
       {
        "type": "text",
-       "content": "Sources: Company disclosures; European Environment Agency (EEA), DISCODATA Database; Ministry of Industry and Information Technology (MIIT), Energy and Information Data Center; U.S. Environmental Protection Agency (EPA), Automotive Trends Data"
+       "content": "Sources: Company disclosures; European Environment Agency (EEA), DISCODATA Database; Ministry of Industry and Information Technology (MIIT), Energy and Information Data Center; U.S. Environmental Protection Agency (EPA), Automotive Trends Data",
+       "content_cn": "数据来源：公司披露；欧洲环境署（EEA）DISCODATA数据库；工业和信息化部（MIIT）能源与信息数据中心；美国环保署（EPA）汽车趋势数据"
       }
      ]
     },
@@ -1227,7 +1277,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The Product Carbon Footprint Targets score evaluates the company’s initiatives to set, pursue and verify carbon emissions targets. Highest initiatives reflect comprehensive, independently verified targets with strong progress toward achievement. It is expressed as a 0–10 score, where 10 indicates strong initiatives."
+       "content": "The Product Carbon Footprint Targets score evaluates the company’s initiatives to set, pursue and verify carbon emissions targets. Highest initiatives reflect comprehensive, independently verified targets with strong progress toward achievement. It is expressed as a 0–10 score, where 10 indicates strong initiatives.",
+       "content_cn": "产品碳足迹目标得分评估公司设定、推进并验证碳减排目标的举措。最高举措反映为全面、经独立验证且取得良好进展的目标。以0-10分表示，10分表示强有力的举措。"
       }
      ]
     },
@@ -1237,23 +1288,28 @@
      "blocks": [
       {
        "type": "text",
-       "content": "Definition: Assesses the extent to which the company has established quantitative climate targets that are comprehensive in scope and complete in coverage. Expressed as a 0-10 score, with 10 indicating comprehensive targets."
+       "content": "Definition: Assesses the extent to which the company has established quantitative climate targets that are comprehensive in scope and complete in coverage. Expressed as a 0-10 score, with 10 indicating comprehensive targets.",
+       "content_cn": "定义：评估公司建立的量化气候目标在范围和覆盖面上的全面程度。以0-10分表示，10分表示目标全面。"
       },
       {
        "type": "list",
-       "content": "◦ Carbon emissions target footprint coverage (%)"
+       "content": "◦ Carbon emissions target footprint coverage (%)",
+       "content_cn": "◦ 碳减排目标足迹覆盖率（%）"
       },
       {
        "type": "text",
-       "content": "Definition: Assesses the extent to which the company’s emission reduction targets cover its total reported emissions. Expressed as a 0–10 score, where 10 indicates that the targets comprehensively cover all relevant emissions."
+       "content": "Definition: Assesses the extent to which the company’s emission reduction targets cover its total reported emissions. Expressed as a 0–10 score, where 10 indicates that the targets comprehensively cover all relevant emissions.",
+       "content_cn": "定义：评估公司减排目标覆盖其总报告排放量的程度。以0-10分表示，10分表示目标全面覆盖所有相关排放。"
       },
       {
        "type": "list",
-       "content": "◦ Carbon emissions target relevant scope score"
+       "content": "◦ Carbon emissions target relevant scope score",
+       "content_cn": "◦ 碳减排目标相关范围得分"
       },
       {
        "type": "text",
-       "content": "Definition: Assesses whether the company’s emission reduction targets include all financially material scopes. Expressed as a 0–10 score, where 10 indicates full coverage of financially material emission scopes."
+       "content": "Definition: Assesses whether the company’s emission reduction targets include all financially material scopes. Expressed as a 0–10 score, where 10 indicates full coverage of financially material emission scopes.",
+       "content_cn": "定义：评估公司减排目标是否涵盖所有财务重要范围的排放。以0-10分表示，10分表示完全覆盖财务重要排放范围。"
       }
      ]
     },
@@ -1263,23 +1319,28 @@
      "blocks": [
       {
        "type": "text",
-       "content": "Definition: Assesses the company’s progress toward active environmental targets, as well as its historical track record in meeting previously stated targets. Expressed as a 0-10 score, with 10 indicating strong progress towards targets"
+       "content": "Definition: Assesses the company’s progress toward active environmental targets, as well as its historical track record in meeting previously stated targets. Expressed as a 0-10 score, with 10 indicating strong progress towards targets",
+       "content_cn": "定义：评估公司实现现行环境目标的进展，以及其达成先前设定目标的历史记录。以0-10分表示，10分表示向目标取得良好进展。"
       },
       {
        "type": "list",
-       "content": "◦ Carbon emissions ongoing target progress"
+       "content": "◦ Carbon emissions ongoing target progress",
+       "content_cn": "◦ 碳减排进行中目标进展"
       },
       {
        "type": "text",
-       "content": "Definition: Assesses the company’s progress toward achieving its emission reduction targets based on current performance. Expressed as a 0–10 score, where 10 all its targets are on track to meet stated targets."
+       "content": "Definition: Assesses the company’s progress toward achieving its emission reduction targets based on current performance. Expressed as a 0–10 score, where 10 all its targets are on track to meet stated targets.",
+       "content_cn": "定义：基于当前表现评估公司实现减排目标的进展。以0-10分表示，10分表示所有目标均在按计划实现。"
       },
       {
        "type": "list",
-       "content": "◦ Carbon emissions target track record"
+       "content": "◦ Carbon emissions target track record",
+       "content_cn": "◦ 碳减排目标历史记录"
       },
       {
        "type": "text",
-       "content": "Definition: Assesses the company’s historical performance in achieving or maintaining sustainability or environmental targets. Expressed as a 0–10 score, where 10 indicates strong performance."
+       "content": "Definition: Assesses the company’s historical performance in achieving or maintaining sustainability or environmental targets. Expressed as a 0–10 score, where 10 indicates strong performance.",
+       "content_cn": "定义：评估公司在实现或维持可持续发展/环境目标方面的历史表现。以0-10分表示，10分表示表现强劲。"
       }
      ]
     },
@@ -1289,23 +1350,28 @@
      "blocks": [
       {
        "type": "text",
-       "content": "Definition: Assesses whether the company’s disclosed targets are supported by the Science Based Targets initiative (SBTi), where applicable. Expressed as either NULL or 10 score, with 10 indicating presence of verification."
+       "content": "Definition: Assesses whether the company’s disclosed targets are supported by the Science Based Targets initiative (SBTi), where applicable. Expressed as either NULL or 10 score, with 10 indicating presence of verification.",
+       "content_cn": "定义：评估公司披露的目标是否得到科学碳目标倡议（SBTi）（如适用）的支持。取值为NULL或10分，10分表示已获验证。"
       },
       {
        "type": "list",
-       "content": "◦ SBTi long-term target status"
+       "content": "◦ SBTi long-term target status",
+       "content_cn": "◦ SBTi长期目标状态"
       },
       {
        "type": "text",
-       "content": "Definition: Indicates the status of the company’s Science Based Targets initiative (SBTi) long-term target, aligned with net-zero or long-term decarbonization goals."
+       "content": "Definition: Indicates the status of the company’s Science Based Targets initiative (SBTi) long-term target, aligned with net-zero or long-term decarbonization goals.",
+       "content_cn": "定义：反映公司科学碳目标倡议（SBTi）长期目标的状态，该目标与净零或长期脱碳目标保持一致。"
       },
       {
        "type": "list",
-       "content": "◦ SBTi near-term target status"
+       "content": "◦ SBTi near-term target status",
+       "content_cn": "◦ SBTi近期目标状态"
       },
       {
        "type": "text",
-       "content": "Definition: Indicates the status of the company’s Science Based Targets initiative (SBTi) near-term target, aligned with short- to medium-term emissions reduction goals."
+       "content": "Definition: Indicates the status of the company’s Science Based Targets initiative (SBTi) near-term target, aligned with short- to medium-term emissions reduction goals.",
+       "content_cn": "定义：反映公司科学碳目标倡议（SBTi）近期目标的状态，该目标与短期至中期减排目标保持一致。"
       }
      ]
     },
@@ -1315,11 +1381,13 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The Product Carbon Footprint Exposure score evaluates the company’s exposure to risks on this Key Issue. It is based on the Business Exposure scores only, except for the automobile and motorcycle manufacturing industry. For the automobile and motorcycle manufacturing industry, it is based on the Business Exposure score and the Geographic Exposure score. The Business Exposure score is scored on a 0-10 scale, with 10 corresponding to the highest risk and 0 corresponding to the lowest risk. Refer to the Analyzing risk exposure section of “ESG Ratings Methodology” for additional details. The following formulas are used in the Exposure score calculation:"
+       "content": "The Product Carbon Footprint Exposure score evaluates the company’s exposure to risks on this Key Issue. It is based on the Business Exposure scores only, except for the automobile and motorcycle manufacturing industry. For the automobile and motorcycle manufacturing industry, it is based on the Business Exposure score and the Geographic Exposure score. The Business Exposure score is scored on a 0-10 scale, with 10 corresponding to the highest risk and 0 corresponding to the lowest risk. Refer to the Analyzing risk exposure section of “ESG Ratings Methodology” for additional details. The following formulas are used in the Exposure score calculation:",
+       "content_cn": "产品碳足迹敞口得分评估公司对该关键议题风险的敞口程度。除汽车和摩托车制造业外，它仅基于业务敞口得分计算。对于汽车和摩托车制造业，它基于业务敞口得分和地理敞口得分计算。业务敞口得分按0-10分制评分，10分对应最高风险，0分对应最低风险。更多细节请参阅《ESG评级方法论》中\"风险敞口分析\"部分。敞口得分计算使用以下公式："
       },
       {
        "type": "text",
-       "content": "For all industries except the automobile and motorcycle manufacturing industry:"
+       "content": "For all industries except the automobile and motorcycle manufacturing industry:",
+       "content_cn": "对于除汽车和摩托车制造业外的所有行业："
       },
       {
        "type": "formula",
@@ -1327,15 +1395,18 @@
       },
       {
        "type": "text",
-       "content": "Where:"
+       "content": "Where:",
+       "content_cn": "其中："
       },
       {
        "type": "text",
-       "content": "$E X P _ { P C F , i }$ is the Product Carbon Footprint Exposure score of company ??."
+       "content": "$E X P _ { P C F , i }$ is the Product Carbon Footprint Exposure score of company ??.",
+       "content_cn": "$EXP_{PCF,i}$ 是公司i的产品碳足迹敞口得分。"
       },
       {
        "type": "text",
-       "content": "$B U S _ { P C F , i }$ is the Business Exposure score of company ??."
+       "content": "$B U S _ { P C F , i }$ is the Business Exposure score of company ??.",
+       "content_cn": "$BUS_{PCF,i}$ 是公司i的业务敞口得分。"
       }
      ]
     },
@@ -1345,11 +1416,13 @@
      "blocks": [
       {
        "type": "text",
-       "content": "![](images/66da15a82fbe8ac6574e0e3cdbd411dfab88c099ff092ef57cb6fc041a410215.jpg)"
+       "content": "![](images/66da15a82fbe8ac6574e0e3cdbd411dfab88c099ff092ef57cb6fc041a410215.jpg)",
+       "content_cn": "（图表2：除汽车和摩托车制造业外所有行业的敞口得分组成部分）"
       },
       {
        "type": "text",
-       "content": "For the automobile and motorcycle manufacturing industry:"
+       "content": "For the automobile and motorcycle manufacturing industry:",
+       "content_cn": "对于汽车和摩托车制造业："
       },
       {
        "type": "formula",
@@ -1357,23 +1430,28 @@
       },
       {
        "type": "text",
-       "content": "Where:"
+       "content": "Where:",
+       "content_cn": "其中："
       },
       {
        "type": "text",
-       "content": "$E X P _ { P C F , i }$ is the Product Carbon Footprint Exposure score of company ??."
+       "content": "$E X P _ { P C F , i }$ is the Product Carbon Footprint Exposure score of company ??.",
+       "content_cn": "$EXP_{PCF,i}$ 是公司i的产品碳足迹敞口得分。"
       },
       {
        "type": "text",
-       "content": "$B U S _ { P C F , i }$ is the Business Exposure score of company ??."
+       "content": "$B U S _ { P C F , i }$ is the Business Exposure score of company ??.",
+       "content_cn": "$BUS_{PCF,i}$ 是公司i的业务敞口得分。"
       },
       {
        "type": "text",
-       "content": "$G E O _ { P C F , i }$ is the Geographic Exposure score of company ??."
+       "content": "$G E O _ { P C F , i }$ is the Geographic Exposure score of company ??.",
+       "content_cn": "$GEO_{PCF,i}$ 是公司i的地理敞口得分。"
       },
       {
        "type": "text",
-       "content": "Exhibit 3: Exposure score components for the automobile and motorcycle manufacturing industry \n![](images/baf80b27045c6aad08ae0bfdee1ed8166696a5d594ca3014f395771e16a4de98.jpg)"
+       "content": "Exhibit 3: Exposure score components for the automobile and motorcycle manufacturing industry \n![](images/baf80b27045c6aad08ae0bfdee1ed8166696a5d594ca3014f395771e16a4de98.jpg)",
+       "content_cn": "（图表3：汽车和摩托车制造业的敞口得分组成部分）"
       }
      ]
     },
@@ -1383,7 +1461,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The Business Exposure score is a weighted average of the Business Segment Exposure scores of a company’s business segments. For the automobile and motorcycle manufacturing industry, scores are weighted by a company’s number of vehicle units sold of a particular vehicle class compared to a company’s total number of vehicle units sold, using the following formula to calculate the Business Exposure score:"
+       "content": "The Business Exposure score is a weighted average of the Business Segment Exposure scores of a company’s business segments. For the automobile and motorcycle manufacturing industry, scores are weighted by a company’s number of vehicle units sold of a particular vehicle class compared to a company’s total number of vehicle units sold, using the following formula to calculate the Business Exposure score:",
+       "content_cn": "业务敞口得分是公司各业务板块业务敞口得分的加权平均值。对于汽车和摩托车制造业，权重按公司某一车辆类别售出车辆数占公司总售出车辆数的比例确定，业务敞口得分按以下公式计算："
       }
      ]
     },
@@ -1397,27 +1476,33 @@
       },
       {
        "type": "text",
-       "content": "Where:"
+       "content": "Where:",
+       "content_cn": "其中："
       },
       {
        "type": "text",
-       "content": "$B U S _ { P C F , i }$ is the Business Exposure score for company ??."
+       "content": "$B U S _ { P C F , i }$ is the Business Exposure score for company ??.",
+       "content_cn": "$BUS_{PCF,i}$ 是公司i的业务敞口得分。"
       },
       {
        "type": "text",
-       "content": "$B S E _ { P C F , j }$ is the Business Segment Exposure score for business segment ??."
+       "content": "$B S E _ { P C F , j }$ is the Business Segment Exposure score for business segment ??.",
+       "content_cn": "$BSE_{PCF,j}$ 是业务板块j的业务板块敞口得分。"
       },
       {
        "type": "text",
-       "content": "$w _ { R e v e n u e , i , j }$ is the weight of business segment for company based on the contribution to total company revenue."
+       "content": "$w _ { R e v e n u e , i , j }$ is the weight of business segment for company based on the contribution to total company revenue.",
+       "content_cn": "$w_{Revenue,i,j}$ 是公司i业务板块j基于其对总收入贡献的权重。"
       },
       {
        "type": "text",
-       "content": "$n _ { i }$ is the number of business segments of company ??."
+       "content": "$n _ { i }$ is the number of business segments of company ??.",
+       "content_cn": "$n_i$ 是公司i的业务板块数量。"
       },
       {
        "type": "text",
-       "content": "For the automobile and motorcycle manufacturing industry:"
+       "content": "For the automobile and motorcycle manufacturing industry:",
+       "content_cn": "对于汽车和摩托车制造业："
       },
       {
        "type": "formula",
@@ -1425,27 +1510,33 @@
       },
       {
        "type": "text",
-       "content": "Where:"
+       "content": "Where:",
+       "content_cn": "其中："
       },
       {
        "type": "text",
-       "content": "$B U S _ { P C F , i }$ is the Business Exposure score for company ??."
+       "content": "$B U S _ { P C F , i }$ is the Business Exposure score for company ??.",
+       "content_cn": "$BUS_{PCF,i}$ 是公司i的业务敞口得分。"
       },
       {
        "type": "text",
-       "content": "$B S E _ { P C F , k }$ is the Business Segment Exposure score for vehicle class segment ??."
+       "content": "$B S E _ { P C F , k }$ is the Business Segment Exposure score for vehicle class segment ??.",
+       "content_cn": "$BSE_{PCF,k}$ 是车辆类别板块k的业务板块敞口得分。"
       },
       {
        "type": "text",
-       "content": "$w _ { V e h i c l e U n i t s , i , k }$ is the weight derived from vehicle class segment units sold for company based on the contribution to total vehicle units sold for company ??."
+       "content": "$w _ { V e h i c l e U n i t s , i , k }$ is the weight derived from vehicle class segment units sold for company based on the contribution to total vehicle units sold for company ??.",
+       "content_cn": "$w_{VehicleUnits,i,k}$ 是公司i车辆类别板块k基于其对总售出车辆数贡献的权重。"
       },
       {
        "type": "text",
-       "content": "$n _ { i }$ is the number of geographic or vehicle class segments for company ??."
+       "content": "$n _ { i }$ is the number of geographic or vehicle class segments for company ??.",
+       "content_cn": "$n_i$ 是公司i的地理或车辆类别板块数量。"
       },
       {
        "type": "text",
-       "content": "For other industries, scores are weighted by the proportion of a company’s total revenue in each business segment, using the following formula to calculate the Business Exposure score:"
+       "content": "For other industries, scores are weighted by the proportion of a company’s total revenue in each business segment, using the following formula to calculate the Business Exposure score:",
+       "content_cn": "对于其他行业，权重按公司各业务板块占总收入的比例确定，业务敞口得分按以下公式计算："
       }
      ]
     },
@@ -1455,11 +1546,13 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The Business Segment Exposure score is based on a mapping of the business segment as disclosed by the company to a corresponding business activity. MSCI S&C uses the Standard Industrial Classification (SIC) system along with industry-specific adjustments to define business activities. The score associated with a business activity is used to calculate a Business Segment Exposure score."
+       "content": "The Business Segment Exposure score is based on a mapping of the business segment as disclosed by the company to a corresponding business activity. MSCI S&C uses the Standard Industrial Classification (SIC) system along with industry-specific adjustments to define business activities. The score associated with a business activity is used to calculate a Business Segment Exposure score.",
+       "content_cn": "业务板块敞口得分基于公司披露的业务板块与相应业务活动的映射确定。MSCI S&C使用标准行业分类（SIC）体系并结合行业特定调整来定义业务活动。与业务活动相关的得分用于计算业务板块敞口得分。"
       },
       {
        "type": "text",
-       "content": "Each business activity score is determined by the upstream greenhouse gas emissions intensities of the business activity:"
+       "content": "Each business activity score is determined by the upstream greenhouse gas emissions intensities of the business activity:",
+       "content_cn": "每项业务活动得分由该业务活动的上游温室气体排放强度确定："
       }
      ]
     },
@@ -1473,15 +1566,18 @@
       },
       {
        "type": "text",
-       "content": "Where:"
+       "content": "Where:",
+       "content_cn": "其中："
       },
       {
        "type": "text",
-       "content": "$B S E _ { P C F , j }$ is the Business Segment Exposure score for business activity ??."
+       "content": "$B S E _ { P C F , j }$ is the Business Segment Exposure score for business activity ??.",
+       "content_cn": "$BSE_{PCF,j}$ 是业务活动j的业务板块敞口得分。"
       },
       {
        "type": "text",
-       "content": "$G H G _ { U p s t r e a m . j }$ is the Upstream Greenhouse Gas Emissions score for business activity ??."
+       "content": "$G H G _ { U p s t r e a m . j }$ is the Upstream Greenhouse Gas Emissions score for business activity ??.",
+       "content_cn": "$GHG_{Upstream,j}$ 是业务活动j的上游温室气体排放得分。"
       }
      ]
     },
@@ -1491,7 +1587,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "Each business activity score is determined by a qualitative assessment of specific vehicle class emissions and vehicle weights in a business activity. The highest resulting Business Exposure scores correspond to the passenger vehicle classes with the highest emissions intensities and vehicle weights. Passenger vehicle classes are generally considered to face stricter regulations than commercial vehicles or two-wheelers."
+       "content": "Each business activity score is determined by a qualitative assessment of specific vehicle class emissions and vehicle weights in a business activity. The highest resulting Business Exposure scores correspond to the passenger vehicle classes with the highest emissions intensities and vehicle weights. Passenger vehicle classes are generally considered to face stricter regulations than commercial vehicles or two-wheelers.",
+       "content_cn": "每项业务活动得分通过对业务活动中特定车辆类别的排放和车辆重量进行定性评估来确定。业务敞口得分最高的对应乘用车类别，其排放强度和车辆重量最高。乘用车类别通常被认为比商用车或两轮车面临更严格的监管。"
       }
      ]
     },
@@ -1501,7 +1598,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The Geographic Exposure score is the weighted average of the Geographic Exposure scores of the countries and regions in which a company operates. Scores are weighted by the proportion of a company’s total revenue in each geographic segment using the following equation:"
+       "content": "The Geographic Exposure score is the weighted average of the Geographic Exposure scores of the countries and regions in which a company operates. Scores are weighted by the proportion of a company’s total revenue in each geographic segment using the following equation:",
+       "content_cn": "地理敞口得分是公司经营所在国家和地区的各地理敞口得分的加权平均值。权重按公司各地理板块占总收入的比例确定，地理敞口得分按以下公式计算："
       },
       {
        "type": "formula",
@@ -1509,27 +1607,33 @@
       },
       {
        "type": "text",
-       "content": "Where:"
+       "content": "Where:",
+       "content_cn": "其中："
       },
       {
        "type": "text",
-       "content": "$G E O _ { P C F , i }$ is the Geographic Exposure score for company ??."
+       "content": "$G E O _ { P C F , i }$ is the Geographic Exposure score for company ??.",
+       "content_cn": "$GEO_{PCF,i}$ 是公司i的地理敞口得分。"
       },
       {
        "type": "text",
-       "content": "$G S E _ { P C F , r }$ is the Geographic Segment Exposure score in region ."
+       "content": "$G S E _ { P C F , r }$ is the Geographic Segment Exposure score in region .",
+       "content_cn": "$GSE_{PCF,r}$ 是地区r的地理板块敞口得分。"
       },
       {
        "type": "text",
-       "content": "$w _ { R e v e n u e , i , r }$ is the weight of total revenue in region for company ??."
+       "content": "$w _ { R e v e n u e , i , r }$ is the weight of total revenue in region for company ??.",
+       "content_cn": "$w_{Revenue,i,r}$ 是公司i在地区r的总收入权重。"
       },
       {
        "type": "text",
-       "content": "$n _ { i }$ is the number of geographic segments for company ??."
+       "content": "$n _ { i }$ is the number of geographic segments for company ??.",
+       "content_cn": "$n_i$ 是公司i的地理板块数量。"
       },
       {
        "type": "text",
-       "content": "For geographic segments reported as regions (example: Asia Pacific), a nominal GDP-weighted country aggregation is used to calculate region-level scores, using the following equation:"
+       "content": "For geographic segments reported as regions (example: Asia Pacific), a nominal GDP-weighted country aggregation is used to calculate region-level scores, using the following equation:",
+       "content_cn": "对于按地区（例如亚太）报告的地理板块，使用按名义GDP加权的国家汇总来计算地区级得分，公式如下："
       },
       {
        "type": "formula",
@@ -1537,19 +1641,23 @@
       },
       {
        "type": "text",
-       "content": "Where:"
+       "content": "Where:",
+       "content_cn": "其中："
       },
       {
        "type": "text",
-       "content": "$G S E _ { P C F , r }$ is the Geographic Segment Exposure score in region ."
+       "content": "$G S E _ { P C F , r }$ is the Geographic Segment Exposure score in region .",
+       "content_cn": "$GSE_{PCF,r}$ 是地区r的地理板块敞口得分。"
       },
       {
        "type": "text",
-       "content": "$G S E _ { P C F , c }$ is the Geographic Segment Exposure score of country ."
+       "content": "$G S E _ { P C F , c }$ is the Geographic Segment Exposure score of country .",
+       "content_cn": "$GSE_{PCF,c}$ 是国家c的地理板块敞口得分。"
       },
       {
        "type": "text",
-       "content": "$w _ { G D P , r , c }$ is the specific weight of country within region ."
+       "content": "$w _ { G D P , r , c }$ is the specific weight of country within region .",
+       "content_cn": "$w_{GDP,r,c}$ 是国家c在地区r内的特定权重。"
       }
      ]
     },
@@ -1559,7 +1667,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The Geographic Segment Exposure score is determined by regulatory requirements for vehicle carbon emissions or fuel efficiency in specific locations. Stricter regulatory requirements for vehicle carbon emissions or fuel efficiency indicates higher Geographic Segment Exposure score."
+       "content": "The Geographic Segment Exposure score is determined by regulatory requirements for vehicle carbon emissions or fuel efficiency in specific locations. Stricter regulatory requirements for vehicle carbon emissions or fuel efficiency indicates higher Geographic Segment Exposure score.",
+       "content_cn": "地理板块敞口得分由特定地区对车辆碳排放或燃油效率的监管要求决定。对车辆碳排放或燃油效率更严格的监管要求表示地理板块敞口得分更高。"
       }
      ]
     },
@@ -1569,7 +1678,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The following sources are used to determine the Product Carbon Footprint Business Exposure score: IERS’ Comprehensive Environmental Data Archive (CEDA), Refinitiv, MSCI S&C, company disclosures."
+       "content": "The following sources are used to determine the Product Carbon Footprint Business Exposure score: IERS’ Comprehensive Environmental Data Archive (CEDA), Refinitiv, MSCI S&C, company disclosures.",
+       "content_cn": "用于确定产品碳足迹业务敞口得分的来源包括：IERS综合环境数据档案（CEDA）、Refinitiv、MSCI S&C、公司披露。"
       }
      ]
     }
@@ -1596,11 +1706,13 @@
      "blocks": [
       {
        "type": "text",
-       "content": "This document provides essential information on the components of the Climate Change Vulnerability Key Issue to enable users of ESG Ratings to understand how MSCI Sustainability & Climate’s (MSC S&C’s)1 outputs are determined. Climate Change Vulnerability is a Key Issue in the Environmental Pillar of the MSCI ESG Ratings model. Insurance companies are assessed on the physical risk that climate change may pose to insured assets or individuals."
+       "content": "This document provides essential information on the components of the Climate Change Vulnerability Key Issue to enable users of ESG Ratings to understand how MSCI Sustainability & Climate’s (MSC S&C’s)1 outputs are determined. Climate Change Vulnerability is a Key Issue in the Environmental Pillar of the MSCI ESG Ratings model. Insurance companies are assessed on the physical risk that climate change may pose to insured assets or individuals.",
+       "content_cn": "本文档提供气候变化脆弱性关键议题组成部分的基本信息，帮助ESG评级用户理解MSCI可持续与气候（MSCI S&C）研究输出的确定方式。气候变化脆弱性是MSCI ESG评级模型中环境支柱下的一个关键议题。保险公司评估内容包括气候变化可能对承保资产或个人构成的物理风险。"
       },
       {
        "type": "text",
-       "content": "For additional details on the MSCI ESG Ratings Model, refer to the Data, ratings and scores section of ”ESG Ratings Methodology.”"
+       "content": "For additional details on the MSCI ESG Ratings Model, refer to the Data, ratings and scores section of ”ESG Ratings Methodology.”",
+       "content_cn": "关于MSCI ESG评级模型的更多细节，请参阅《ESG评级方法论》中\"数据、评级和分数\"部分。"
       },
       {
        "type": "text",
@@ -1614,15 +1726,18 @@
      "blocks": [
       {
        "type": "list",
-       "content": "• Climate model risk: inadequate climate risk modelling may underestimate or misrepresent future climate-related losses and reserving assumptions."
+       "content": "• Climate model risk: inadequate climate risk modelling may underestimate or misrepresent future climate-related losses and reserving assumptions.",
+       "content_cn": "• 气候模型风险：不充分的气候风险建模可能低估或错误表述未来气候相关损失及准备金假设。"
       },
       {
        "type": "list",
-       "content": "• Liquidity and solvency risk: timing and size of claims impact cash flows and solvency."
+       "content": "• Liquidity and solvency risk: timing and size of claims impact cash flows and solvency.",
+       "content_cn": "• 流动性和偿付能力风险：索赔的时间和规模影响现金流和偿付能力。"
       },
       {
        "type": "list",
-       "content": "• Catastrophe risk: increase in frequency and severity and decrease in predictability of catastrophe losses."
+       "content": "• Catastrophe risk: increase in frequency and severity and decrease in predictability of catastrophe losses.",
+       "content_cn": "• 巨灾风险：巨灾损失的频率和严重程度上升，可预测性下降。"
       }
      ]
     },
@@ -1632,7 +1747,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The Climate Change Vulnerability Key Issue score evaluates the company’s level of exposure to, and management of, risks on this Key Issue. The Key Issue score is based on the Exposure score and the Management score using the formula below. The Exposure score and the Management score are combined such that a higher level of exposure requires a higher level of demonstrated management capability in order to achieve the same overall Key Issue score."
+       "content": "The Climate Change Vulnerability Key Issue score evaluates the company’s level of exposure to, and management of, risks on this Key Issue. The Key Issue score is based on the Exposure score and the Management score using the formula below. The Exposure score and the Management score are combined such that a higher level of exposure requires a higher level of demonstrated management capability in order to achieve the same overall Key Issue score.",
+       "content_cn": "气候变化脆弱性关键议题得分评估公司对该关键议题风险的敞口程度以及风险管理质量。关键议题得分基于敞口得分和管理得分通过下述公式综合得出。敞口得分与管理得分的结合方式为：敞口水平越高，需要展示的管理能力也越高，才能获得相同的总体关键议题得分。"
       },
       {
        "type": "formula",
@@ -1640,19 +1756,23 @@
       },
       {
        "type": "text",
-       "content": "Where:"
+       "content": "Where:",
+       "content_cn": "其中："
       },
       {
        "type": "text",
-       "content": "$K I _ { i }$ is the Key Issue score for company ??."
+       "content": "$K I _ { i }$ is the Key Issue score for company ??.",
+       "content_cn": "$KI_i$ 是公司i的关键议题得分。"
       },
       {
        "type": "text",
-       "content": "$E X P _ { i }$ is the Exposure score for company ??."
+       "content": "$E X P _ { i }$ is the Exposure score for company ??.",
+       "content_cn": "$EXP_i$ 是公司i的敞口得分。"
       },
       {
        "type": "list",
-       "content": "• ???????? is the Management score for company ??."
+       "content": "• ???????? is the Management score for company ??.",
+       "content_cn": "• $MGMT_i$ 是公司i的管理得分。"
       }
      ]
     },
@@ -1662,7 +1782,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The table below outlines the indicators mapped to their respective components that inform the Climate Change Vulnerability Management score, excluding controversies. MSCI S&C assigns each indicator a default weight. Indicator weights may be adjusted at the company level to reflect the relevance of the indicator to the company’s business activities. If a company has no exposure to the business activities covered by an indicator, the indicator is assigned a weight of zero."
+       "content": "The table below outlines the indicators mapped to their respective components that inform the Climate Change Vulnerability Management score, excluding controversies. MSCI S&C assigns each indicator a default weight. Indicator weights may be adjusted at the company level to reflect the relevance of the indicator to the company’s business activities. If a company has no exposure to the business activities covered by an indicator, the indicator is assigned a weight of zero.",
+       "content_cn": "下表列示了构成气候变化脆弱性管理得分（不含争议事件）的各指标及其对应组成部分。MSCI S&C为每个指标设定默认权重。指标权重可在公司层面调整，以反映该指标与公司业务活动的相关性。如果公司对某指标涵盖的业务活动没有敞口，则该指标权重设为零。"
       },
       {
        "type": "table",
@@ -1676,15 +1797,18 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The Climate Change Vulnerability Management score evaluates the company’s ability to manage its exposure to risks on this Key Issue. It is based on weighted average of the score associated with each relevant indicator."
+       "content": "The Climate Change Vulnerability Management score evaluates the company’s ability to manage its exposure to risks on this Key Issue. It is based on weighted average of the score associated with each relevant indicator.",
+       "content_cn": "气候变化脆弱性管理得分评估公司管理该关键议题风险敞口的能力。它基于各相关指标得分的加权平均值计算。"
       },
       {
        "type": "text",
-       "content": "This score is derived from indicators that are scored on a 0-10 scale, with 10 corresponding to best practice. Refer to the Analyzing risk management section of “ESG Ratings Methodology” for additional details. Sources are company disclosures except where otherwise indicated."
+       "content": "This score is derived from indicators that are scored on a 0-10 scale, with 10 corresponding to best practice. Refer to the Analyzing risk management section of “ESG Ratings Methodology” for additional details. Sources are company disclosures except where otherwise indicated.",
+       "content_cn": "该得分来源于按0-10分制评分的指标，10分对应最佳实践。更多细节请参阅《ESG评级方法论》中\"风险管理分析\"部分。除特别注明外，数据来源为公司披露。"
       },
       {
        "type": "text",
-       "content": "The following formula is used to calculate the Climate Change Vulnerability Management score:"
+       "content": "The following formula is used to calculate the Climate Change Vulnerability Management score:",
+       "content_cn": "气候变化脆弱性管理得分按以下公式计算："
       },
       {
        "type": "formula",
@@ -1692,23 +1816,28 @@
       },
       {
        "type": "text",
-       "content": "Where:"
+       "content": "Where:",
+       "content_cn": "其中："
       },
       {
        "type": "text",
-       "content": "$M G M T _ { i }$ is the Management score - Excluding Controversies for company ??."
+       "content": "$M G M T _ { i }$ is the Management score - Excluding Controversies for company ??.",
+       "content_cn": "$MGMT_i$ 是公司i的管理得分（不含争议事件）。"
       },
       {
        "type": "list",
-       "content": "• ???? ?????????? $\\_ S c o r e _ { j , i }$ is the score of indicator for company ."
+       "content": "• ???? ?????????? $\\_ S c o r e _ { j , i }$ is the score of indicator for company .",
+       "content_cn": "• $Score_{j,i}$ 是公司i在指标j上的得分。"
       },
       {
        "type": "list",
-       "content": "• ???? ?????????? $W e i g h t _ { j , i }$ is the weight of indicator for company ."
+       "content": "• ???? ?????????? $W e i g h t _ { j , i }$ is the weight of indicator for company .",
+       "content_cn": "• $Weight_{j,i}$ 是公司i在指标j上的权重。"
       },
       {
        "type": "text",
-       "content": "The following formula is used to calculate the scores for the components"
+       "content": "The following formula is used to calculate the scores for the components",
+       "content_cn": "各组成部分得分按以下公式计算："
       },
       {
        "type": "formula",
@@ -1716,27 +1845,33 @@
       },
       {
        "type": "text",
-       "content": "Where:"
+       "content": "Where:",
+       "content_cn": "其中："
       },
       {
        "type": "text",
-       "content": "$C O M P _ { c , i }$ is the component score for component $c _ { \\prime }$ for company i."
+       "content": "$C O M P _ { c , i }$ is the component score for component $c _ { \\prime }$ for company i.",
+       "content_cn": "$COMP_{c,i}$ 是公司i在组成部分c上的得分。"
       },
       {
        "type": "list",
-       "content": "• ???? ?????????? $\\_ S c o r e _ { j , i }$ is the score of indicator for company ."
+       "content": "• ???? ?????????? $\\_ S c o r e _ { j , i }$ is the score of indicator for company .",
+       "content_cn": "• $Score_{j,i}$ 是公司i在指标j上的得分。"
       },
       {
        "type": "list",
-       "content": "• ???? ?????????? $\\_ W e i g h t \\_ S c a l e d _ { j , i }$ is the scaled weight of indicator for company ."
+       "content": "• ???? ?????????? $\\_ W e i g h t \\_ S c a l e d _ { j , i }$ is the scaled weight of indicator for company .",
+       "content_cn": "• $Weight\\_Scaled_{j,i}$ 是公司i在指标j上的缩放后权重。"
       },
       {
        "type": "text",
-       "content": "$j \\in c$ indicates that the summation is over all indicators belonging to component"
+       "content": "$j \\in c$ indicates that the summation is over all indicators belonging to component",
+       "content_cn": "$j \\in c$ 表示对所有属于组成部分c的指标求和。"
       },
       {
        "type": "text",
-       "content": "The following formula is used to calculate the weights for the components"
+       "content": "The following formula is used to calculate the weights for the components",
+       "content_cn": "各组成部分权重按以下公式计算："
       },
       {
        "type": "formula",
@@ -1744,23 +1879,28 @@
       },
       {
        "type": "text",
-       "content": "Where:"
+       "content": "Where:",
+       "content_cn": "其中："
       },
       {
        "type": "list",
-       "content": "• ???? $. W e i g h t _ { c , i }$ is the component weight for component for company i."
+       "content": "• ???? $. W e i g h t _ { c , i }$ is the component weight for component for company i.",
+       "content_cn": "• $Weight_{c,i}$ 是公司i在组成部分c上的权重。"
       },
       {
        "type": "list",
-       "content": "• ???? ??????????\\_ $W e i g h t _ { j , i }$ is the weight of indicator j for company i."
+       "content": "• ???? ??????????\\_ $W e i g h t _ { j , i }$ is the weight of indicator j for company i.",
+       "content_cn": "• $Weight_{j,i}$ 是公司i在指标j上的权重。"
       },
       {
        "type": "text",
-       "content": "$j \\in c$ indicates that the summation is over all indicators belonging to component ."
+       "content": "$j \\in c$ indicates that the summation is over all indicators belonging to component .",
+       "content_cn": "$j \\in c$ 表示对所有属于组成部分c的指标求和。"
       },
       {
        "type": "text",
-       "content": "The definitions of the data points in each component are given below:"
+       "content": "The definitions of the data points in each component are given below:",
+       "content_cn": "各组成部分中数据点的定义如下："
       }
      ]
     },
@@ -1770,7 +1910,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The Climate Change Vulnerability Practices score evaluates the company’s initiatives to integrate climate change considerations into insurance underwriting, including use of climate models, research on physical risk impacts and recognition of increased risk exposure. This score is a component of the Climate Change Vulnerability Management score (excluding controversies) and considers attributes of the company's policies and initiatives. It is expressed as a 0–10 score, where 10 indicates strong initiatives."
+       "content": "The Climate Change Vulnerability Practices score evaluates the company’s initiatives to integrate climate change considerations into insurance underwriting, including use of climate models, research on physical risk impacts and recognition of increased risk exposure. This score is a component of the Climate Change Vulnerability Management score (excluding controversies) and considers attributes of the company's policies and initiatives. It is expressed as a 0–10 score, where 10 indicates strong initiatives.",
+       "content_cn": "气候变化脆弱性实践得分评估公司将气候变化考量纳入保险承保的举措，包括使用气候模型、研究物理风险影响以及识别风险敞口增加。该得分是气候变化脆弱性管理得分（不含争议事件）的组成部分，并考虑公司政策和举措的属性。以0-10分表示，10分表示强有力的举措。"
       }
      ]
     },
@@ -1780,7 +1921,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "Definition: Indicates whether the company recognizes that the physical risk of climate change may increase underwriting risks."
+       "content": "Definition: Indicates whether the company recognizes that the physical risk of climate change may increase underwriting risks.",
+       "content_cn": "定义：反映公司是否认识到气候变化的物理风险可能增加承保风险。"
       }
      ]
     },
@@ -1790,7 +1932,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "Definition: Indicates whether the company conducts research or exercises to quantify the impact of physical risk on insurance underwriting, either directly (via primary research) or indirectly (through an industry consortium)."
+       "content": "Definition: Indicates whether the company conducts research or exercises to quantify the impact of physical risk on insurance underwriting, either directly (via primary research) or indirectly (through an industry consortium).",
+       "content_cn": "定义：反映公司是否开展研究或演练以量化物理风险对保险承保的影响，无论是直接（通过自主研究）还是间接（通过行业联盟）。"
       }
      ]
     },
@@ -1800,7 +1943,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "Definition: Indicates whether the company uses climate change models to inform underwriting decisions."
+       "content": "Definition: Indicates whether the company uses climate change models to inform underwriting decisions.",
+       "content_cn": "定义：反映公司是否使用气候变化模型为承保决策提供信息。"
       }
      ]
     },
@@ -1810,7 +1954,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The Climate Change Vulnerability Performance score evaluates the company's underwriting performance, based on its three-year average combined ratio. The combined ratio measures an insurer’s underwriting profitability by comparing total claims and expenses to earned premiums. It is expressed as a 0-10 score, where 10 indicates the highest level of profitability."
+       "content": "The Climate Change Vulnerability Performance score evaluates the company's underwriting performance, based on its three-year average combined ratio. The combined ratio measures an insurer’s underwriting profitability by comparing total claims and expenses to earned premiums. It is expressed as a 0-10 score, where 10 indicates the highest level of profitability.",
+       "content_cn": "气候变化脆弱性绩效得分评估公司的承保绩效，基于其三年平均综合成本率（combined ratio）。综合成本率通过比较总索赔和费用与已赚保费来衡量保险公司的承保盈利能力。以0-10分表示，10分表示最高盈利水平。"
       }
      ]
     },
@@ -1820,7 +1965,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "Definition: Assesses the company's underwriting performance, based on its three-year average combined ratio. The combined ratio measures an insurer’s underwriting profitability by comparing total claims and expenses to earned premiums."
+       "content": "Definition: Assesses the company's underwriting performance, based on its three-year average combined ratio. The combined ratio measures an insurer’s underwriting profitability by comparing total claims and expenses to earned premiums.",
+       "content_cn": "定义：基于公司三年平均综合成本率评估其承保绩效。综合成本率通过比较总索赔和费用与已赚保费来衡量保险公司的承保盈利能力。"
       }
      ]
     },
@@ -1830,7 +1976,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The Climate Change Vulnerability Exposure score evaluates the company’s exposure to risks on this Key Issue. It is based on the average of the Business and Company-Specific Exposure scores, combined with the Geographic Exposure score. The Geographic Exposure score functions as a multiplier on the averaged Business and Company-Specific Exposure scores, with an impact ranging from -50% to +50%. The Business Exposure score, Geographic Exposure score and Company-Specific Exposure score are scored on a 0-10 scale, with 10 corresponding to the highest risk and 0 corresponding to the lowest risk. Refer to Section 3.2, Analyzing risk exposure, of “ESG Ratings Methodology” for additional details. The following formula is used in the Exposure score calculation:"
+       "content": "The Climate Change Vulnerability Exposure score evaluates the company’s exposure to risks on this Key Issue. It is based on the average of the Business and Company-Specific Exposure scores, combined with the Geographic Exposure score. The Geographic Exposure score functions as a multiplier on the averaged Business and Company-Specific Exposure scores, with an impact ranging from -50% to +50%. The Business Exposure score, Geographic Exposure score and Company-Specific Exposure score are scored on a 0-10 scale, with 10 corresponding to the highest risk and 0 corresponding to the lowest risk. Refer to Section 3.2, Analyzing risk exposure, of “ESG Ratings Methodology” for additional details. The following formula is used in the Exposure score calculation:",
+       "content_cn": "气候变化脆弱性敞口得分评估公司对该关键议题风险的敞口程度。它基于业务敞口得分和公司特定敞口得分的平均值，再结合地理敞口得分计算。地理敞口得分作为平均业务和公司特定敞口得分的乘数，影响范围为-50%至+50%。业务敞口得分、地理敞口得分和公司特定敞口得分均按0-10分制评分，10分对应最高风险，0分对应最低风险。更多细节请参阅《ESG评级方法论》第3.2节\"风险敞口分析\"。敞口得分按以下公式计算："
       },
       {
        "type": "formula",
@@ -1838,27 +1985,33 @@
       },
       {
        "type": "text",
-       "content": "Where:"
+       "content": "Where:",
+       "content_cn": "其中："
       },
       {
        "type": "text",
-       "content": "$E X P _ { C C V , i }$ is the Climate Change Vulnerability Exposure score of company ??."
+       "content": "$E X P _ { C C V , i }$ is the Climate Change Vulnerability Exposure score of company ??.",
+       "content_cn": "$EXP_{CCV,i}$ 是公司i的气候变化脆弱性敞口得分。"
       },
       {
        "type": "text",
-       "content": "$B U S _ { C C V , i }$ is the Business Exposure score of company ??."
+       "content": "$B U S _ { C C V , i }$ is the Business Exposure score of company ??.",
+       "content_cn": "$BUS_{CCV,i}$ 是公司i的业务敞口得分。"
       },
       {
        "type": "text",
-       "content": "$C O M _ { C C V , i }$ is the Company-Specific Exposure score of company ??."
+       "content": "$C O M _ { C C V , i }$ is the Company-Specific Exposure score of company ??.",
+       "content_cn": "$COM_{CCV,i}$ 是公司i的公司特定敞口得分。"
       },
       {
        "type": "text",
-       "content": "$G E O _ { C C V , i }$ is the Geographic Exposure score of company ??."
+       "content": "$G E O _ { C C V , i }$ is the Geographic Exposure score of company ??.",
+       "content_cn": "$GEO_{CCV,i}$ 是公司i的地理敞口得分。"
       },
       {
        "type": "text",
-       "content": "Exhibit 2: Exposure score components \n![](images/69cf7b26cd0932f0cdfabc61fc0bde92d4c737b3c3226d66a57cdae5a918beac.jpg)"
+       "content": "Exhibit 2: Exposure score components \n![](images/69cf7b26cd0932f0cdfabc61fc0bde92d4c737b3c3226d66a57cdae5a918beac.jpg)",
+       "content_cn": "（图表2：敞口得分组成部分）"
       }
      ]
     },
@@ -1868,7 +2021,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The Business Exposure score is a weighted average of the Business Segment Exposure scores of a company’s business segments. Scores are weighted by the proportion of a company’s total revenue in each business segment, using the following formula to calculate the Business Exposure score:"
+       "content": "The Business Exposure score is a weighted average of the Business Segment Exposure scores of a company’s business segments. Scores are weighted by the proportion of a company’s total revenue in each business segment, using the following formula to calculate the Business Exposure score:",
+       "content_cn": "业务敞口得分是公司各业务板块业务敞口得分的加权平均值。权重按公司各业务板块占总收入的比例确定，业务敞口得分按以下公式计算："
       },
       {
        "type": "formula",
@@ -1876,19 +2030,23 @@
       },
       {
        "type": "text",
-       "content": "Where:"
+       "content": "Where:",
+       "content_cn": "其中："
       },
       {
        "type": "text",
-       "content": "$B S E _ { C C V , j }$ is the Business Segment Exposure score for business segment ??."
+       "content": "$B S E _ { C C V , j }$ is the Business Segment Exposure score for business segment ??.",
+       "content_cn": "$BSE_{CCV,j}$ 是业务板块j的业务板块敞口得分。"
       },
       {
        "type": "text",
-       "content": "$w _ { R e v e n u e , i , j }$ is the weight of business segment ?? for company ?? based on the contribution to total company revenue."
+       "content": "$w _ { R e v e n u e , i , j }$ is the weight of business segment ?? for company ?? based on the contribution to total company revenue.",
+       "content_cn": "$w_{Revenue,i,j}$ 是公司i业务板块j基于其对总收入贡献的权重。"
       },
       {
        "type": "text",
-       "content": "$n _ { i }$ is the number of business segments of company ??."
+       "content": "$n _ { i }$ is the number of business segments of company ??.",
+       "content_cn": "$n_i$ 是公司i的业务板块数量。"
       }
      ]
     },
@@ -1898,11 +2056,13 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The Business Segment Exposure score of a business segment is based on a mapping of the business segment as disclosed by the company to a corresponding business activity. MSCI S&C uses the Standard Industrial Classification (SIC) system along with industry-specific adjustments to define business activities. The score associated with a business activity is used to calculate a Business"
+       "content": "The Business Segment Exposure score of a business segment is based on a mapping of the business segment as disclosed by the company to a corresponding business activity. MSCI S&C uses the Standard Industrial Classification (SIC) system along with industry-specific adjustments to define business activities. The score associated with a business activity is used to calculate a Business",
+       "content_cn": "业务板块敞口得分基于公司披露的业务板块与相应业务活动的映射确定。MSCI S&C使用标准行业分类（SIC）体系并结合行业特定调整来定义业务活动。与业务活动相关的得分用于计算业务板块敞口得分。"
       },
       {
        "type": "text",
-       "content": "Segment Exposure score. Each business activity score is determined by a qualitative assessment of whether a business activity has a core involvement in insuring property, assets and individuals for both primary insurance and reinsurance. A higher involvement will result in a higher Business Segment Exposure score for the business activity."
+       "content": "Segment Exposure score. Each business activity score is determined by a qualitative assessment of whether a business activity has a core involvement in insuring property, assets and individuals for both primary insurance and reinsurance. A higher involvement will result in a higher Business Segment Exposure score for the business activity.",
+       "content_cn": "每项业务活动得分通过对业务活动是否在直保和再保中核心参与承保财产、资产和个人进行定性评估来确定。参与程度越高，业务活动的业务板块敞口得分越高。"
       }
      ]
     },
@@ -1912,7 +2072,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The Geographic Exposure score is the weighted average of the Geographic Segment Exposure scores of the countries, markets and regions in which a company operates. Scores are weighted by the proportion of a company’s total revenue in each geographic segment using the following equation:"
+       "content": "The Geographic Exposure score is the weighted average of the Geographic Segment Exposure scores of the countries, markets and regions in which a company operates. Scores are weighted by the proportion of a company’s total revenue in each geographic segment using the following equation:",
+       "content_cn": "地理敞口得分是公司经营所在国家、市场和地区的各地理板块敞口得分的加权平均值。权重按公司各地理板块占总收入的比例确定，地理敞口得分按以下公式计算："
       },
       {
        "type": "formula",
@@ -1920,23 +2081,28 @@
       },
       {
        "type": "text",
-       "content": "Where:"
+       "content": "Where:",
+       "content_cn": "其中："
       },
       {
        "type": "text",
-       "content": "$G S E _ { C C V , r }$ is the Geographic Segment Exposure score in region ."
+       "content": "$G S E _ { C C V , r }$ is the Geographic Segment Exposure score in region .",
+       "content_cn": "$GSE_{CCV,r}$ 是地区r的地理板块敞口得分。"
       },
       {
        "type": "text",
-       "content": "$w _ { R e v e n u e , i , r }$ is the weight of total revenue in region for company ??."
+       "content": "$w _ { R e v e n u e , i , r }$ is the weight of total revenue in region for company ??.",
+       "content_cn": "$w_{Revenue,i,r}$ 是公司i在地区r的总收入权重。"
       },
       {
        "type": "text",
-       "content": "$n _ { i }$ is the number of geographic segments for company ??."
+       "content": "$n _ { i }$ is the number of geographic segments for company ??.",
+       "content_cn": "$n_i$ 是公司i的地理板块数量。"
       },
       {
        "type": "text",
-       "content": "For geographic segments reported as regions (example: Asia Pacific), a nominal GDP-weighted country aggregation is used to calculate region-level scores, using the following equation:"
+       "content": "For geographic segments reported as regions (example: Asia Pacific), a nominal GDP-weighted country aggregation is used to calculate region-level scores, using the following equation:",
+       "content_cn": "对于按地区（例如亚太）报告的地理板块，使用按名义GDP加权的国家汇总来计算地区级得分，公式如下："
       },
       {
        "type": "formula",
@@ -1944,15 +2110,18 @@
       },
       {
        "type": "text",
-       "content": "Where:"
+       "content": "Where:",
+       "content_cn": "其中："
       },
       {
        "type": "text",
-       "content": "$G S E _ { C C V , c }$ is the Geographic Segment Exposure score of country or market ."
+       "content": "$G S E _ { C C V , c }$ is the Geographic Segment Exposure score of country or market .",
+       "content_cn": "$GSE_{CCV,c}$ 是国家或市场c的地理板块敞口得分。"
       },
       {
        "type": "text",
-       "content": "$w _ { G D P , r , c }$ is the specific weight of country or market within region ."
+       "content": "$w _ { G D P , r , c }$ is the specific weight of country or market within region .",
+       "content_cn": "$w_{GDP,r,c}$ 是国家或市场c在地区r内的特定权重。"
       }
      ]
     },
@@ -1962,7 +2131,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The Geographic Segment Exposure score of a geographic segment is determined by selecting the maximum population exposure to any natural hazard, including climate-induced natural hazards, as per the INFORM Risk Index:"
+       "content": "The Geographic Segment Exposure score of a geographic segment is determined by selecting the maximum population exposure to any natural hazard, including climate-induced natural hazards, as per the INFORM Risk Index:",
+       "content_cn": "地理板块敞口得分通过选择INFORM风险指数中任何自然灾害（包括气候引发的自然灾害）的最大人口敞口来确定："
       },
       {
        "type": "formula",
@@ -1970,19 +2140,23 @@
       },
       {
        "type": "text",
-       "content": "Where:"
+       "content": "Where:",
+       "content_cn": "其中："
       },
       {
        "type": "text",
-       "content": "$G S E _ { C C , r }$ is the Geographic Segment Exposure score for region ."
+       "content": "$G S E _ { C C , r }$ is the Geographic Segment Exposure score for region .",
+       "content_cn": "$GSE_{CC,r}$ 是地区r的地理板块敞口得分。"
       },
       {
        "type": "text",
-       "content": "$H P E _ { k , r }$ is the Hazard Population Exposure score to natural hazard ?? in region ."
+       "content": "$H P E _ { k , r }$ is the Hazard Population Exposure score to natural hazard ?? in region .",
+       "content_cn": "$HPE_{k,r}$ 是地区r中自然灾害k的人口敞口得分。"
       },
       {
        "type": "text",
-       "content": "The Hazard Population Exposure score is derived from the INFORM Risk Index, which uses estimated population exposure to each natural hazard per country or market. These hazards include earthquakes, floods, tropical cyclones, droughts, tsunamis and epidemics."
+       "content": "The Hazard Population Exposure score is derived from the INFORM Risk Index, which uses estimated population exposure to each natural hazard per country or market. These hazards include earthquakes, floods, tropical cyclones, droughts, tsunamis and epidemics.",
+       "content_cn": "灾害人口敞口得分来源于INFORM风险指数，该指数使用每个国家或市场对每种自然灾害的估计人口敞口。这些灾害包括地震、洪水、热带气旋、干旱、海啸和流行病。"
       }
      ]
     },
@@ -1992,7 +2166,8 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The Company-Specific Exposure score is determined by a simple average of the Property & Casualty Insurance Line score and the Reinsurance Line score:"
+       "content": "The Company-Specific Exposure score is determined by a simple average of the Property & Casualty Insurance Line score and the Reinsurance Line score:",
+       "content_cn": "公司特定敞口得分由财产与意外险业务线得分和再保险业务线得分的简单平均值确定："
       },
       {
        "type": "formula",
@@ -2000,23 +2175,28 @@
       },
       {
        "type": "text",
-       "content": "Where:"
+       "content": "Where:",
+       "content_cn": "其中："
       },
       {
        "type": "text",
-       "content": "$C O M _ { C C V , i }$ is the Company-Specific Exposure score for company ??."
+       "content": "$C O M _ { C C V , i }$ is the Company-Specific Exposure score for company ??.",
+       "content_cn": "$COM_{CCV,i}$ 是公司i的公司特定敞口得分。"
       },
       {
        "type": "text",
-       "content": "$P \\& C _ { i }$ is the Property and Casualty Insurance Line score for company ??."
+       "content": "$P \\& C _ { i }$ is the Property and Casualty Insurance Line score for company ??.",
+       "content_cn": "$P\\&C_i$ 是公司i的财产与意外险业务线得分。"
       },
       {
        "type": "text",
-       "content": "$R e I N S _ { i }$ is the Reinsurance Line score for company ??."
+       "content": "$R e I N S _ { i }$ is the Reinsurance Line score for company ??.",
+       "content_cn": "$ReINS_i$ 是公司i的再保险业务线得分。"
       },
       {
        "type": "text",
-       "content": "The Property and Casualty Insurance Line score is calculated from the percentage of premiums derived from property and casualty insurance lines. The Reinsurance Line score is calculated from the percentage of premiums derived from reinsurance lines."
+       "content": "The Property and Casualty Insurance Line score is calculated from the percentage of premiums derived from property and casualty insurance lines. The Reinsurance Line score is calculated from the percentage of premiums derived from reinsurance lines.",
+       "content_cn": "财产与意外险业务线得分根据来自财产与意外险业务线的保费百分比计算。再保险业务线得分根据来自再保险业务线的保费百分比计算。"
       }
      ]
     },
@@ -2026,11 +2206,13 @@
      "blocks": [
       {
        "type": "text",
-       "content": "The following sources are used to determine the Climate Change Vulnerability Exposure score:"
+       "content": "The following sources are used to determine the Climate Change Vulnerability Exposure score:",
+       "content_cn": "用于确定气候变化脆弱性敞口得分的来源包括："
       },
       {
        "type": "text",
-       "content": "INFORM Risk Index, Inter-Agency Standing Committee and European Commission; Refinitiv; MSCI S&C; \ncompany disclosures."
+       "content": "INFORM Risk Index, Inter-Agency Standing Committee and European Commission; Refinitiv; MSCI S&C; \ncompany disclosures.",
+       "content_cn": "INFORM风险指数、机构间常设委员会和欧盟委员会；Refinitiv；MSCI S&C；公司披露。"
       }
      ]
     }
