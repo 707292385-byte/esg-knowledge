@@ -857,6 +857,21 @@
           "title": "总览与体系",
           "points": [
             {
+              "id": "msci-overview",
+              "title": "方法论总览：目标、评分体系与评级步骤",
+              "estimated_minutes": 20
+            },
+            {
+              "id": "msci-process",
+              "title": "评级流程：数据获取、评分更新与质量保证",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "msci-materiality",
+              "title": "行业权重映射：GICS行业×34个关键议题权重矩阵",
+              "estimated_minutes": 20
+            },
+            {
               "id": "msci-list",
               "title": "MSCI ESG评级方法论总览：三大支柱与33个关键议题",
               "estimated_minutes": 15
