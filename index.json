@@ -1,53 +1,54 @@
 {
- "version": "1.1",
- "updated_at": "2026-09-08",
- "description": "AI×ESG工作台 知识包",
- "files": [
-  {
-   "name": "knowledge_academy.json",
-   "description": "知识学堂学习路径配置",
-   "hash": "8763314ee21f9d0f3bf16f7d6abbc6b3",
-   "size": 322876
-  },
-  {
-   "name": "ashare_guideline.json",
-   "description": "A股可持续发展报告指引（完整议题数据）",
-   "hash": "22fd7d30f500163349f0d0be98d0596d",
-   "size": 130311
-  },
-  {
-   "name": "gri_standards.json",
-   "description": "GRI可持续发展报告标准",
-   "hash": "2064ca08ecd51034190389494dfe6cbd",
-   "size": 239263
-  },
-  {
-   "name": "issb_standards.json",
-   "description": "ISSB可持续披露准则",
-   "hash": "00a3ba3b642da7676352997f855a3259",
-   "size": 122338
-  },
-  {
-   "name": "esrs_standards.json",
-   "description": "欧盟ESRS可持续发展报告准则",
-   "hash": "8f0be92ecbf08fa2f911480cd7bf5bd0",
-   "size": 222007
-  },
-  {
-   "name": "msci_standards.json",
-   "description": "MSCI ESG评级方法论（三大支柱33个关键议题官方原文结构化数据）",
-   "hash": "491324fd8b4feff0109c5d6a8f0042cf",
-   "size": 1975389
-  },
-  {
-   "name": "msci_overview.json",
-   "hash": "3b8544295ef51a6781c2fb59cca6e78b",
-   "size": 125090
-  },
-  {
-   "name": "msci_industry_materiality.json",
-   "hash": "36513867651ef1e15e386c3f57057499",
-   "size": 188309
-  }
- ]
+  "version": "1.2",
+  "updated_at": "2026-09-08",
+  "description": "AI×ESG工作台 知识包",
+  "files": [
+    {
+      "name": "knowledge_academy.json",
+      "description": "知识学堂学习路径配置",
+      "hash": "8763314ee21f9d0f3bf16f7d6abbc6b3",
+      "size": 322876
+    },
+    {
+      "name": "ashare_guideline.json",
+      "description": "A股可持续发展报告指引（完整议题数据）",
+      "hash": "22fd7d30f500163349f0d0be98d0596d",
+      "size": 130311
+    },
+    {
+      "name": "gri_standards.json",
+      "description": "GRI可持续发展报告标准",
+      "hash": "2064ca08ecd51034190389494dfe6cbd",
+      "size": 239263
+    },
+    {
+      "name": "issb_standards.json",
+      "description": "ISSB可持续披露准则",
+      "hash": "00a3ba3b642da7676352997f855a3259",
+      "size": 122338
+    },
+    {
+      "name": "esrs_standards.json",
+      "description": "欧盟ESRS可持续发展报告准则",
+      "hash": "8f0be92ecbf08fa2f911480cd7bf5bd0",
+      "size": 222007
+    },
+    {
+      "name": "msci_standards.json",
+      "description": "MSCI ESG评级方法论（三大支柱33个关键议题官方原文结构化数据）",
+      "hash": "491324fd8b4feff0109c5d6a8f0042cf",
+      "size": 1975389
+    },
+    {
+      "name": "msci_overview.json",
+      "hash": "54506927bfe040d72fdae0bc53e25f09",
+      "size": 124684,
+      "description": "MSCI ESG评级方法论总览与评级流程（官方图表已补全）"
+    },
+    {
+      "name": "msci_industry_materiality.json",
+      "hash": "36513867651ef1e15e386c3f57057499",
+      "size": 188309
+    }
+  ]
 }
