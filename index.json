@@ -6,32 +6,32 @@
   {
    "name": "knowledge_academy.json",
    "description": "知识学堂学习路径配置",
-   "hash": "4442e5a8f47fd30a314e0e293cb1deb2",
-   "size": 322293
+   "hash": "8763314ee21f9d0f3bf16f7d6abbc6b3",
+   "size": 322876
   },
   {
    "name": "ashare_guideline.json",
    "description": "A股可持续发展报告指引（完整议题数据）",
-   "hash": "b77c5d671efecb980f279b8490cb2fc3",
-   "size": 75221
+   "hash": "22fd7d30f500163349f0d0be98d0596d",
+   "size": 130311
   },
   {
    "name": "gri_standards.json",
    "description": "GRI可持续发展报告标准",
-   "hash": "dd53c7e87c75c320c367668df3d5d989",
-   "size": 114737
+   "hash": "2064ca08ecd51034190389494dfe6cbd",
+   "size": 239263
   },
   {
    "name": "issb_standards.json",
    "description": "ISSB可持续披露准则",
-   "hash": "f415dbc334137f19c999c65e24a9040e",
-   "size": 47440
+   "hash": "00a3ba3b642da7676352997f855a3259",
+   "size": 122338
   },
   {
    "name": "esrs_standards.json",
    "description": "欧盟ESRS可持续发展报告准则",
-   "hash": "ef2612c52ce3b86e9d2fdd9a2c9a67dd",
-   "size": 218877
+   "hash": "8f0be92ecbf08fa2f911480cd7bf5bd0",
+   "size": 222007
   },
   {
    "name": "msci_standards.json",
@@ -46,8 +46,8 @@
   },
   {
    "name": "msci_industry_materiality.json",
-   "hash": "d309b210c33d0303f5b50a012e220805",
-   "size": 204268
+   "hash": "36513867651ef1e15e386c3f57057499",
+   "size": 188309
   }
  ]
 }
