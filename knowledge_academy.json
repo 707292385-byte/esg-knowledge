@@ -1,6 +1,6 @@
 {
-  "version": "2.0",
-  "updated_at": "2026-09-05T18:22:30.877106",
+  "version": "2.1",
+  "updated_at": "2026-09-08",
   "paths": [
     {
       "id": "gri-standards",
@@ -1665,6 +1665,212 @@
         }
       ],
       "category": "测试"
+    },
+    {
+      "id": "msci-standards",
+      "title": "MSCI ESG评级方法论",
+      "subtitle": "三大支柱 · 33个关键议题 · 官方原文完整可视化",
+      "icon": "📊",
+      "color": "#7c3aed",
+      "category": "评级标准",
+      "description": "系统学习MSCI ESG评级方法论（2026年3月更新），覆盖三大支柱33个关键议题。每个议题保留官方方法论原文（英文原文+MinerU结构化解析），按 引言→风险/机遇→关键议题得分→管理评分框架→敞口得分→数据来源 的结构化章节呈现，辅以中文导航标题。",
+      "estimated_hours": 16,
+      "modules": [
+        {
+          "id": "msci-module-0",
+          "title": "总览与体系",
+          "points": [
+            {
+              "id": "msci-list",
+              "title": "MSCI ESG评级方法论总览：三大支柱与33个关键议题",
+              "estimated_minutes": 15
+            }
+          ]
+        },
+        {
+          "id": "msci-module-env",
+          "title": "环境支柱（13个关键议题）",
+          "points": [
+            {
+              "id": "msci-topic-MSCI-ENV-01",
+              "title": "碳排放 Carbon Emissions",
+              "estimated_minutes": 25
+            },
+            {
+              "id": "msci-topic-MSCI-ENV-02",
+              "title": "产品碳足迹 Product Carbon Footprint",
+              "estimated_minutes": 20
+            },
+            {
+              "id": "msci-topic-MSCI-ENV-03",
+              "title": "气候变化脆弱性 Climate Change Vulnerability",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "msci-topic-MSCI-ENV-04",
+              "title": "影响环境的融资 Financing Environmental Impact",
+              "estimated_minutes": 20
+            },
+            {
+              "id": "msci-topic-MSCI-ENV-05",
+              "title": "水资源压力 Water Stress",
+              "estimated_minutes": 20
+            },
+            {
+              "id": "msci-topic-MSCI-ENV-06",
+              "title": "生物多样性与土地利用 Biodiversity & Land Use",
+              "estimated_minutes": 20
+            },
+            {
+              "id": "msci-topic-MSCI-ENV-07",
+              "title": "原材料采购 Raw Material Sourcing",
+              "estimated_minutes": 20
+            },
+            {
+              "id": "msci-topic-MSCI-ENV-08",
+              "title": "有毒排放与废弃物 Toxic Emissions & Waste",
+              "estimated_minutes": 20
+            },
+            {
+              "id": "msci-topic-MSCI-ENV-09",
+              "title": "包装材料与废弃物 Packaging Material & Waste",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "msci-topic-MSCI-ENV-10",
+              "title": "电子废弃物 Electronic Waste",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "msci-topic-MSCI-ENV-11",
+              "title": "清洁技术机遇 Opportunities in Clean Tech",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "msci-topic-MSCI-ENV-12",
+              "title": "绿色建筑机遇 Opportunities in Green Building",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "msci-topic-MSCI-ENV-13",
+              "title": "可再生能源机遇 Opportunities in Renewable Energy",
+              "estimated_minutes": 15
+            }
+          ]
+        },
+        {
+          "id": "msci-module-soc",
+          "title": "社会支柱（14个关键议题）",
+          "points": [
+            {
+              "id": "msci-topic-MSCI-SOC-01",
+              "title": "劳工管理 Labor Management",
+              "estimated_minutes": 20
+            },
+            {
+              "id": "msci-topic-MSCI-SOC-02",
+              "title": "健康与安全 Health & Safety",
+              "estimated_minutes": 20
+            },
+            {
+              "id": "msci-topic-MSCI-SOC-03",
+              "title": "人力资本发展 Human Capital Development",
+              "estimated_minutes": 20
+            },
+            {
+              "id": "msci-topic-MSCI-SOC-04",
+              "title": "供应链劳工标准 Supply Chain Labor Standards",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "msci-topic-MSCI-SOC-05",
+              "title": "产品安全与质量 Product Safety & Quality",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "msci-topic-MSCI-SOC-06",
+              "title": "化学品安全 Chemical Safety",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "msci-topic-MSCI-SOC-07",
+              "title": "消费者金融保护 Consumer Financial Protection",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "msci-topic-MSCI-SOC-08",
+              "title": "隐私与数据安全 Privacy & Data Security",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "msci-topic-MSCI-SOC-09",
+              "title": "负责任投资 Responsible Investment",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "msci-topic-MSCI-SOC-10",
+              "title": "社区关系 Community Relations",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "msci-topic-MSCI-SOC-11",
+              "title": "争议性采购 Controversial Sourcing",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "msci-topic-MSCI-SOC-12",
+              "title": "金融服务可及性 Access to Finance",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "msci-topic-MSCI-SOC-13",
+              "title": "医疗可及性 Access to Health Care",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "msci-topic-MSCI-SOC-14",
+              "title": "营养与健康机遇 Opportunities in Nutrition & Health",
+              "estimated_minutes": 15
+            }
+          ]
+        },
+        {
+          "id": "msci-module-gov",
+          "title": "治理支柱（6个关键议题）",
+          "points": [
+            {
+              "id": "msci-topic-MSCI-GOV-01",
+              "title": "会计 Accounting",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "msci-topic-MSCI-GOV-02",
+              "title": "董事会 Board",
+              "estimated_minutes": 20
+            },
+            {
+              "id": "msci-topic-MSCI-GOV-03",
+              "title": "商业道德 Business Ethics",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "msci-topic-MSCI-GOV-04",
+              "title": "所有权与控制权 Ownership & Control",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "msci-topic-MSCI-GOV-05",
+              "title": "薪酬 Pay",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "msci-topic-MSCI-GOV-06",
+              "title": "税务透明度 Tax Transparency",
+              "estimated_minutes": 10
+            }
+          ]
+        }
+      ]
     }
   ]
 }
