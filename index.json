@@ -1,13 +1,13 @@
 {
-  "version": "1.2",
-  "updated_at": "2026-09-08",
+  "version": "1.2.1",
+  "updated_at": "2026-09-11",
   "description": "AI×ESG工作台 知识包",
   "files": [
     {
       "name": "knowledge_academy.json",
       "description": "知识学堂学习路径配置",
-      "hash": "8763314ee21f9d0f3bf16f7d6abbc6b3",
-      "size": 322876
+      "hash": "1e12478c6d1919f1d06aef84502bec2d",
+      "size": 322898
     },
     {
       "name": "ashare_guideline.json",
@@ -35,15 +35,15 @@
     },
     {
       "name": "msci_standards.json",
-      "description": "MSCI ESG评级方法论（三大支柱33个关键议题官方原文结构化数据）",
-      "hash": "491324fd8b4feff0109c5d6a8f0042cf",
-      "size": 1975389
+      "description": "MSCI知识增量校核（2026-09-11，未声明全文专业审校通过）",
+      "hash": "75689b73c9746614aaeca62781358ec8",
+      "size": 7200432
     },
     {
       "name": "msci_overview.json",
-      "hash": "5397978b48457e0448cdfa4c607bbcfe",
-      "size": 163196,
-      "description": "MSCI ESG评级方法论总览与评级流程（官方图表已补全）"
+      "hash": "0855895ed1a3ae1b385521c7d2a9786d",
+      "size": 176589,
+      "description": "MSCI知识增量校核（2026-09-11，未声明全文专业审校通过）"
     },
     {
       "name": "msci_industry_materiality.json",
