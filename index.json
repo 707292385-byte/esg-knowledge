@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "updated_at": "2026-09-12",
   "description": "AI×ESG工作台 知识包",
   "files": [
@@ -12,8 +12,8 @@
     {
       "name": "ashare_guideline.json",
       "description": "A股可持续发展报告指引（完整议题数据）",
-      "hash": "5fcb2f70252113c28ac87f84f58ffcf0",
-      "size": 854077
+      "hash": "9edab5a815f34721803976ad3c07845c",
+      "size": 1047503
     },
     {
       "name": "gri_standards.json",
