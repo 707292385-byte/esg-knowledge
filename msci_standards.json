@@ -1,6 +1,6 @@
 {
- "version": "1.0.1",
- "updated_at": "2026-09-11",
+ "version": "1.1.0",
+ "updated_at": "2026-09-12",
  "standard_type": "msci-esg-ratings",
  "standard_name": "MSCI ESG Ratings Methodology",
  "standard_name_cn": "MSCI ESG评级方法论",
@@ -1033,7 +1033,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "风险模型：7 − (max(EXP, 2) − MGMT)，限定0—10分"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-ENV-02",
@@ -2111,7 +2142,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "风险模型：7 − (max(EXP, 2) − MGMT)，限定0—10分"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-ENV-03",
@@ -2858,7 +2920,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "风险模型：7 − (max(EXP, 2) − MGMT)，限定0—10分"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-ENV-04",
@@ -3634,7 +3727,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "风险模型：7 − (max(EXP, 2) − MGMT)，限定0—10分"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-ENV-05",
@@ -4636,7 +4760,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "风险模型：7 − (max(EXP, 2) − MGMT)，限定0—10分"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-ENV-06",
@@ -5379,7 +5534,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "风险模型：7 − (max(EXP, 2) − MGMT)，限定0—10分"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-ENV-07",
@@ -6281,7 +6467,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "风险模型：7 − (max(EXP, 2) − MGMT)，限定0—10分"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-ENV-08",
@@ -7309,7 +7526,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "风险模型：7 − (max(EXP, 2) − MGMT)，限定0—10分"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-ENV-09",
@@ -8058,7 +8306,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "风险模型：7 − (max(EXP, 2) − MGMT)，限定0—10分"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-ENV-10",
@@ -8770,7 +9049,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "风险模型：7 − (max(EXP, 2) − MGMT)，限定0—10分"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-ENV-11",
@@ -9341,7 +9651,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "敞口决定管理得分占比（50%—100%），其余部分以5分为基准"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-ENV-12",
@@ -10121,7 +10462,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "敞口决定管理得分占比（50%—100%），其余部分以5分为基准"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-ENV-13",
@@ -10852,7 +11224,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "敞口决定管理得分占比（50%—100%），其余部分以5分为基准"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-GOV-01",
@@ -11143,7 +11546,33 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "治理关键指标",
+      "en": "Governance Key Metrics",
+      "d": "核对适用指标与最佳实践的差距"
+     },
+     {
+      "t": "治理扣分",
+      "en": "Governance Deductions",
+      "d": "按具体指标规则汇总扣分"
+     },
+     {
+      "t": "治理得分",
+      "en": "Governance Scores",
+      "d": "由扣分计算议题、主题及支柱得分"
+     },
+     {
+      "t": "总体评级贡献",
+      "en": "Governance Pillar Weight",
+      "d": "治理支柱作为整体参与加权，不套用环境社会敞口公式"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-GOV-02",
@@ -12736,7 +13165,33 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "治理关键指标",
+      "en": "Governance Key Metrics",
+      "d": "核对适用指标与最佳实践的差距"
+     },
+     {
+      "t": "治理扣分",
+      "en": "Governance Deductions",
+      "d": "按具体指标规则汇总扣分"
+     },
+     {
+      "t": "治理得分",
+      "en": "Governance Scores",
+      "d": "由扣分计算议题、主题及支柱得分"
+     },
+     {
+      "t": "总体评级贡献",
+      "en": "Governance Pillar Weight",
+      "d": "治理支柱作为整体参与加权，不套用环境社会敞口公式"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-GOV-03",
@@ -13085,7 +13540,33 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "治理关键指标",
+      "en": "Governance Key Metrics",
+      "d": "核对适用指标与最佳实践的差距"
+     },
+     {
+      "t": "治理扣分",
+      "en": "Governance Deductions",
+      "d": "按具体指标规则汇总扣分"
+     },
+     {
+      "t": "治理得分",
+      "en": "Governance Scores",
+      "d": "由扣分计算议题、主题及支柱得分"
+     },
+     {
+      "t": "总体评级贡献",
+      "en": "Governance Pillar Weight",
+      "d": "治理支柱作为整体参与加权，不套用环境社会敞口公式"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-GOV-04",
@@ -14052,7 +14533,33 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "治理关键指标",
+      "en": "Governance Key Metrics",
+      "d": "核对适用指标与最佳实践的差距"
+     },
+     {
+      "t": "治理扣分",
+      "en": "Governance Deductions",
+      "d": "按具体指标规则汇总扣分"
+     },
+     {
+      "t": "治理得分",
+      "en": "Governance Scores",
+      "d": "由扣分计算议题、主题及支柱得分"
+     },
+     {
+      "t": "总体评级贡献",
+      "en": "Governance Pillar Weight",
+      "d": "治理支柱作为整体参与加权，不套用环境社会敞口公式"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-GOV-05",
@@ -14885,7 +15392,33 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "治理关键指标",
+      "en": "Governance Key Metrics",
+      "d": "核对适用指标与最佳实践的差距"
+     },
+     {
+      "t": "治理扣分",
+      "en": "Governance Deductions",
+      "d": "按具体指标规则汇总扣分"
+     },
+     {
+      "t": "治理得分",
+      "en": "Governance Scores",
+      "d": "由扣分计算议题、主题及支柱得分"
+     },
+     {
+      "t": "总体评级贡献",
+      "en": "Governance Pillar Weight",
+      "d": "治理支柱作为整体参与加权，不套用环境社会敞口公式"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-GOV-06",
@@ -15046,7 +15579,33 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "治理关键指标",
+      "en": "Governance Key Metrics",
+      "d": "核对适用指标与最佳实践的差距"
+     },
+     {
+      "t": "治理扣分",
+      "en": "Governance Deductions",
+      "d": "按具体指标规则汇总扣分"
+     },
+     {
+      "t": "治理得分",
+      "en": "Governance Scores",
+      "d": "由扣分计算议题、主题及支柱得分"
+     },
+     {
+      "t": "总体评级贡献",
+      "en": "Governance Pillar Weight",
+      "d": "治理支柱作为整体参与加权，不套用环境社会敞口公式"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-SOC-01",
@@ -15514,7 +16073,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "风险模型：7 − (max(EXP, 2) − MGMT)，限定0—10分"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-SOC-02",
@@ -16260,7 +16850,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "风险模型：7 − (max(EXP, 2) − MGMT)，限定0—10分"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-SOC-03",
@@ -16850,7 +17471,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "风险模型：7 − (max(EXP, 2) − MGMT)，限定0—10分"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-SOC-04",
@@ -17266,7 +17918,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "风险模型：7 − (max(EXP, 2) − MGMT)，限定0—10分"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-SOC-05",
@@ -17744,7 +18427,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "风险模型：7 − (max(EXP, 2) − MGMT)，限定0—10分"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-SOC-06",
@@ -18266,7 +18980,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "风险模型：7 − (max(EXP, 2) − MGMT)，限定0—10分"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-SOC-07",
@@ -18535,7 +19280,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "风险模型：7 − (max(EXP, 2) − MGMT)，限定0—10分"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-SOC-08",
@@ -19121,7 +19897,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "风险模型：7 − (max(EXP, 2) − MGMT)，限定0—10分"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-SOC-09",
@@ -19547,7 +20354,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "风险模型：7 − (max(EXP, 2) − MGMT)，限定0—10分"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-SOC-10",
@@ -19986,7 +20824,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "风险模型：7 − (max(EXP, 2) − MGMT)，限定0—10分"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-SOC-11",
@@ -20275,7 +21144,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "风险模型：7 − (max(EXP, 2) − MGMT)，限定0—10分"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-SOC-12",
@@ -20713,7 +21613,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "敞口决定管理得分占比（50%—100%），其余部分以5分为基准"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-SOC-13",
@@ -21297,7 +22228,38 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "敞口决定管理得分占比（50%—100%），其余部分以5分为基准"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   },
   {
    "code": "MSCI-SOC-14",
@@ -21717,7 +22679,39 @@
     "review_status": "incremental_corrections_full_review_pending",
     "checked_on": "2026-09-11"
    },
-   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证"
+   "full_content_status": "历史解析依据；当前纠错以sections与source_revision为准，非现行全文认证",
+   "scoring_visual": {
+    "title": "评分结构速览",
+    "note": "基于方法论整理 · 供理解参考",
+    "steps": [
+     {
+      "t": "敞口依据",
+      "en": "Exposure Inputs",
+      "d": "按本议题采用业务、地理或公司特定因素"
+     },
+     {
+      "t": "敞口得分 EXP",
+      "en": "Exposure Score",
+      "d": "组合方式及业务权重以本议题公式为准"
+     },
+     {
+      "t": "管理得分 MGMT",
+      "en": "Management Score",
+      "d": "适用指标加权，再按争议事件调整"
+     },
+     {
+      "t": "关键议题得分 KI",
+      "en": "Key Issue Score",
+      "d": "敞口决定管理得分占比（50%—100%），其余部分以5分为基准"
+     },
+     {
+      "t": "评级加权",
+      "en": "Rating Weight",
+      "d": "按适用议题权重汇总，再做行业调整与评级缓冲"
+     }
+    ]
+   }
   }
- ]
+ ],
+ "review_label": "2026-09-11增量校核，全文审校继续追踪"
 }
