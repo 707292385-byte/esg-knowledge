@@ -1,6 +1,6 @@
 {
-  "version": "2.1",
-  "updated_at": "2026-09-08",
+  "version": "1.5.0",
+  "updated_at": "2026-09-12",
   "paths": [
     {
       "id": "gri-standards",
@@ -1549,11 +1549,11 @@
     {
       "id": "ashare-guideline",
       "title": "A股可持续发展报告指引",
-      "subtitle": "上交所第14号为主体，标注深交所/北交所差异，四层内容可视化",
+      "subtitle": "沪深北三所依据 · 21项议题与4项基础方法",
       "icon": "📊",
       "color": "#059669",
       "category": "披露标准",
-      "description": "系统学习A股上市公司可持续发展报告指引，以上交所第14号为主体，整合编制指南第一号~第五号，标注深交所第17号、北交所第11号差异，采用指引原文/编制指南/外部资源/AI实务四层内容结构。",
+      "description": "系统学习A股可持续发展报告指引，以官方中文为准，分别查看沪、深、北条文与版本差异。包括披露框架、双重重要性、报告编制、治理机制及环境、社会、治理21项议题。",
       "estimated_hours": 12,
       "modules": [
         {
@@ -1562,23 +1562,27 @@
           "points": [
             {
               "id": "ashare-framework",
-              "title": "整体框架结构：四要素与21项议题",
-              "estimated_minutes": 15
+              "title": "整体框架结构",
+              "estimated_minutes": 15,
+              "content_type": "structured"
             },
             {
               "id": "ashare-materiality",
-              "title": "双重重要性评估：财务重要性与影响重要性",
-              "estimated_minutes": 20
+              "title": "双重重要性评估",
+              "estimated_minutes": 20,
+              "content_type": "structured"
             },
             {
               "id": "ashare-process",
-              "title": "报告编制流程：从准备到披露",
-              "estimated_minutes": 15
+              "title": "报告编制流程",
+              "estimated_minutes": 15,
+              "content_type": "structured"
             },
             {
               "id": "ashare-governance",
-              "title": "治理架构设定：董事会、管理层与跨部门机制",
-              "estimated_minutes": 15
+              "title": "治理架构设定",
+              "estimated_minutes": 15,
+              "content_type": "structured"
             }
           ]
         },
@@ -1588,23 +1592,51 @@
           "points": [
             {
               "id": "ashare-climate",
-              "title": "应对气候变化：气候适应性、转型计划与温室气体核算",
-              "estimated_minutes": 30
+              "title": "应对气候变化",
+              "estimated_minutes": 30,
+              "content_type": "structured"
             },
             {
               "id": "ashare-pollution",
-              "title": "污染物排放：排污信息、处理设施与减排目标",
-              "estimated_minutes": 20
+              "title": "污染物排放",
+              "estimated_minutes": 20,
+              "content_type": "structured"
+            },
+            {
+              "id": "ashare-waste",
+              "title": "废弃物处理",
+              "content_type": "structured",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "ashare-biodiversity",
+              "title": "生态系统和生物多样性",
+              "content_type": "structured",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "ashare-env-compliance",
+              "title": "环境合规管理",
+              "content_type": "structured",
+              "estimated_minutes": 15
             },
             {
               "id": "ashare-energy",
-              "title": "能源利用：能源结构、可再生能源与综合能耗",
-              "estimated_minutes": 20
+              "title": "能源利用",
+              "estimated_minutes": 20,
+              "content_type": "structured"
             },
             {
               "id": "ashare-water",
-              "title": "水资源利用：取水分类、水耗指标与循环利用",
-              "estimated_minutes": 20
+              "title": "水资源利用",
+              "estimated_minutes": 20,
+              "content_type": "structured"
+            },
+            {
+              "id": "ashare-circular",
+              "title": "循环经济",
+              "content_type": "structured",
+              "estimated_minutes": 15
             }
           ]
         },
@@ -1613,13 +1645,57 @@
           "title": "社会维度议题",
           "points": [
             {
-              "id": "ashare-employee",
-              "title": "员工权益与发展：薪酬、社保、培训与职业健康",
-              "estimated_minutes": 20
+              "id": "ashare-rural",
+              "title": "乡村振兴",
+              "content_type": "structured",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "ashare-social",
+              "title": "社会贡献",
+              "content_type": "structured",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "ashare-innovation",
+              "title": "创新驱动",
+              "content_type": "structured",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "ashare-tech-ethics",
+              "title": "科技伦理",
+              "content_type": "structured",
+              "estimated_minutes": 15
             },
             {
               "id": "ashare-supply-chain",
-              "title": "供应链管理：供应商准入、ESG审核与风险应对",
+              "title": "供应链安全",
+              "estimated_minutes": 15,
+              "content_type": "structured"
+            },
+            {
+              "id": "ashare-product-safety",
+              "title": "产品和服务安全与质量",
+              "content_type": "structured",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "ashare-data-security",
+              "title": "数据安全与客户隐私保护",
+              "content_type": "structured",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "ashare-employee",
+              "title": "员工",
+              "estimated_minutes": 20,
+              "content_type": "structured"
+            },
+            {
+              "id": "ashare-sme",
+              "title": "平等对待中小企业",
+              "content_type": "structured",
               "estimated_minutes": 15
             }
           ]
@@ -1629,8 +1705,27 @@
           "title": "治理维度议题",
           "points": [
             {
+              "id": "ashare-due-diligence",
+              "title": "尽职调查",
+              "content_type": "structured",
+              "estimated_minutes": 15
+            },
+            {
+              "id": "ashare-stakeholder",
+              "title": "利益相关方沟通",
+              "content_type": "structured",
+              "estimated_minutes": 15
+            },
+            {
               "id": "ashare-ethics",
-              "title": "商业道德：反商业贿赂、反不正当竞争与举报机制",
+              "title": "反商业贿赂及反贪污",
+              "estimated_minutes": 15,
+              "content_type": "structured"
+            },
+            {
+              "id": "ashare-unfair-competition",
+              "title": "反不正当竞争",
+              "content_type": "structured",
               "estimated_minutes": 15
             }
           ]

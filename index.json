@@ -1,19 +1,19 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "updated_at": "2026-09-12",
   "description": "AI×ESG工作台 知识包",
   "files": [
     {
       "name": "knowledge_academy.json",
       "description": "知识学堂学习路径配置",
-      "hash": "e9f375ae90b4eadebb88f2eab52f4ec4",
-      "size": 322902
+      "hash": "6737120514dcf5c444f540c6bb37a26d",
+      "size": 323745
     },
     {
       "name": "ashare_guideline.json",
       "description": "A股可持续发展报告指引（完整议题数据）",
-      "hash": "22fd7d30f500163349f0d0be98d0596d",
-      "size": 130311
+      "hash": "5fcb2f70252113c28ac87f84f58ffcf0",
+      "size": 854077
     },
     {
       "name": "gri_standards.json",
