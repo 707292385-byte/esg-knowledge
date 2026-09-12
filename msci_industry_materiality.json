@@ -6352,5 +6352,18 @@
    }
   ]
  },
- "source_note": "数据来源：MSCI官网；用户于2026-09-11确认上周整理。11板块/163子行业GICS分类已核验。当前数据为27个环境与社会议题及治理支柱权重，治理子议题未提供独立权重；采集时间不等于权重基准日。"
+ "source_note": "数据来源：MSCI官网；用户于2026-09-11确认上周整理。11板块/163子行业GICS分类已核验。当前数据为27个环境与社会议题及治理支柱权重，治理子议题未提供独立权重；采集时间不等于权重基准日。",
+ "language_policy": {
+  "official_languages": [
+   "en"
+  ],
+  "zh_origin": "ai",
+  "contains_ai_translation": true,
+  "notice": "由AI翻译，仅供参考。",
+  "translated_by": "Codex 当前会话直接翻译",
+  "external_translation_api_used": false,
+  "updated_on": "2026-09-12",
+  "official_chinese_counterpart": "本批英文版本尚未核实对应官方中文；不将旧版中文标作本版官方译文"
+ },
+ "updated_at": "2026-09-12"
 }
